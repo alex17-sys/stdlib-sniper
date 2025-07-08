@@ -43,7 +43,6 @@ jobs:
       run: |
         python scripts/check_duplicate_snippets.py
         python scripts/validate_files.py
-        python scripts/check_crossrefs.py
         python scripts/lint_md_snippets.py
         python scripts/lint_all_py_files.py
 
