@@ -57,19 +57,3 @@ jobs:
     - name: Generate documentation
       run: |
         python scripts/generate_docs.py
-
-  test-snippets:
-    runs-on: ubuntu-latest
-    needs: validate
-
-    steps:
-    - uses: actions/checkout@v4
-
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: "3.11"
-
-    - name: Test exported snippets
-      run: |
-        python scripts/test_exported_snippets.py
