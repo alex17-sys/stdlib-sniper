@@ -1,0 +1,107 @@
+/* Minimal styles for stdlib-sniper snippet cards */
+.md-badge {
+    display: inline-block;
+    padding: 4px 8px;
+    margin: 2px;
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+    border-radius: 12px;
+    font-size: 0.8em;
+    font-weight: 500;
+}
+
+.snippet-card {
+    border: 2px solid var(--md-primary-fg-color);
+    border-radius: 16px;
+    padding: 1.5rem 1.5rem 1.2rem 1.5rem;
+    margin: 2.5rem 0;
+    background: var(--md-default-bg-color--lightest);
+    box-shadow: 0 6px 32px 0 rgba(60, 60, 90, 0.13), 0 2px 8px 0 rgba(60,60,90,0.10);
+    position: relative;
+    transition: box-shadow 0.2s, border-color 0.2s;
+    overflow: visible;
+}
+.snippet-card:hover {
+    box-shadow: 0 12px 40px 0 rgba(60, 60, 90, 0.18), 0 4px 16px 0 rgba(60,60,90,0.13);
+    border-color: var(--md-primary-fg-color);
+}
+
+.snippet-card .snippet-title {
+    color: var(--md-primary-fg-color);
+    margin-bottom: 0.5rem;
+    font-size: 1.18em;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+}
+
+.snippet-card .snippet-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    margin-bottom: 0.7em;
+}
+
+.snippet-card .md-badge {
+    margin: 0 0.2em 0.2em 0;
+    font-size: 0.85em;
+    font-weight: 600;
+    background: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+    border-radius: 10px;
+    padding: 3px 10px;
+    box-shadow: 0 1px 4px 0 rgba(60,60,90,0.08);
+}
+
+.snippet-card .snippet-description {
+    color: var(--md-default-fg-color--light);
+    margin-bottom: 1em;
+    font-size: 1em;
+}
+
+.snippet-card pre {
+    background: var(--md-default-bg-color);
+    border-radius: 8px;
+    box-shadow: 0 1.5px 6px 0 rgba(60,60,90,0.07);
+    margin-bottom: 0.7em;
+    margin-top: 0.5em;
+    padding: 1em;
+}
+
+.snippet-card .snippet-notes {
+    background: rgba(255,255,255,0.07);
+    border-left: 4px solid var(--md-primary-fg-color);
+    border-radius: 6px;
+    padding: 0.1em 1em;
+    margin-top: 1em;
+    color: var(--md-default-fg-color);
+    font-size: 0.98em;
+}
+
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+    height: 2rem !important;  /* Increase as desired */
+    width: auto !important;
+}
+
+/* Hide only the site title text, not the container */
+.md-header__title .md-header__topic {
+    display: none !important;
+}
+
+[data-md-color-scheme="slate"] .snippet-card {
+    background: #23232b;
+    border-color: #444466;
+}
+[data-md-color-scheme="slate"] .snippet-card .md-badge {
+    background: #FFDE21;
+    color: #23232b;
+}
+
+hr.snippet-divider {
+    border: none;
+    border-top: 3px solid var(--md-primary-fg-color, #FFD600);
+    margin: 2.5em 0 2em 0;
+    border-radius: 2px;
+    opacity: 1;
+}

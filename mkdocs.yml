@@ -1,0 +1,296 @@
+site_name: stdlib-sniper
+site_description: "A curated collection of zero-dependency Python code snippets using only the standard library."
+site_author: "stdlib-sniper contributors"
+site_url: "https://heyshinde.github.io/stdlib-sniper/"
+
+repo_name: heyshinde/stdlib-sniper
+repo_url: https://github.com/heyshinde/stdlib-sniper
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  logo: assets/logo.svg
+  favicon: assets/favicon.ico
+  palette:
+    - scheme: slate
+      primary: yellow
+      accent: yellow
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: white
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    - content.tabs.link
+    - content.tooltips
+    - header.autohide
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.instant.result
+    - navigation.instant.suggest
+    - navigation.instant.tracking
+    - navigation.instant.worker
+    - navigation.instant.worker.offline
+    - navigation.prune
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - navigation.tracking.instant
+    - navigation.tracking.instant.worker
+    - navigation.tracking.instant.worker.offline
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/heyshinde/stdlib-sniper
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/heyshinde
+  meta:
+    - property: og:title
+      content: "stdlib-sniper: Zero-dependency Python snippets"
+    - property: og:description
+      content: "A curated collection of zero-dependency Python code snippets using only the standard library."
+    - property: og:image
+      content: "https://heyshinde.github.io/stdlib-sniper/assets/logo.svg"
+    - property: og:url
+      content: "https://heyshinde.github.io/stdlib-sniper/"
+    - name: twitter:card
+      content: summary_large_image
+    - name: twitter:title
+      content: "stdlib-sniper: Zero-dependency Python snippets"
+    - name: twitter:description
+      content: "A curated collection of zero-dependency Python code snippets using only the standard library."
+    - name: twitter:image
+      content: "https://heyshinde.github.io/stdlib-sniper/assets/logo.svg"
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+plugins:
+  - search
+  # - git-revision-date-localized:
+  #     enable_creation_date: true
+  #     fallback_to_build_date: true
+  #     enable_git_follow: false
+
+nav:
+- Home: index.md
+- Contributing: CONTRIBUTING.md
+- Wanted Snippets: WANTED_SNIPPETS.md
+- LICENSE: LICENSE
+- Categories:
+  - Wanted Snippets: WANTED_SNIPPETS.md
+  - Data Structures:
+    - Dictionaries:
+      - Dict Comprehension: data_structures/dictionaries/dict_comprehension.md
+      - Dict Default: data_structures/dictionaries/dict_default.md
+      - Dict Subset: data_structures/dictionaries/dict_subset.md
+      - Dict To List: data_structures/dictionaries/dict_to_list.md
+      - Group By Key: data_structures/dictionaries/group_by_key.md
+      - Invert Dict: data_structures/dictionaries/invert_dict.md
+      - List To Dict: data_structures/dictionaries/list_to_dict.md
+      - Merge Dicts: data_structures/dictionaries/merge_dicts.md
+      - Nested Dict Access: data_structures/dictionaries/nested_dict_access.md
+      - Sort Dict: data_structures/dictionaries/sort_dict.md
+    - Graphs:
+      - Graph Adj List: data_structures/graphs/graph_adj_list.md
+      - Graph Connected Components: data_structures/graphs/graph_connected_components.md
+      - Graph Cycle Detection: data_structures/graphs/graph_cycle_detection.md
+      - Graph Degree: data_structures/graphs/graph_degree.md
+      - Graph Shortest Path: data_structures/graphs/graph_shortest_path.md
+      - Graph Topological Sort: data_structures/graphs/graph_topological_sort.md
+      - Graph Traversal: data_structures/graphs/graph_traversal.md
+    - Heaps:
+      - Heap Create: data_structures/heaps/heap_create.md
+      - Heap Nlargest Nsmallest: data_structures/heaps/heap_nlargest_nsmallest.md
+      - Heap Push Pop: data_structures/heaps/heap_push_pop.md
+    - Lists:
+      - List Chunk: data_structures/lists/list_chunk.md
+      - List Count Occurrences: data_structures/lists/list_count_occurrences.md
+      - List Filter: data_structures/lists/list_filter.md
+      - List Find Max Min: data_structures/lists/list_find_max_min.md
+      - List Flatten: data_structures/lists/list_flatten.md
+      - List Map: data_structures/lists/list_map.md
+      - List Merge: data_structures/lists/list_merge.md
+      - List Reduce: data_structures/lists/list_reduce.md
+      - List Remove Duplicates: data_structures/lists/list_remove_duplicates.md
+      - List Reverse: data_structures/lists/list_reverse.md
+      - List Rotate: data_structures/lists/list_rotate.md
+      - List Sort: data_structures/lists/list_sort.md
+      - List Sort Custom: data_structures/lists/list_sort_custom.md
+      - List Transpose Matrix: data_structures/lists/list_transpose_matrix.md
+      - List Zip: data_structures/lists/list_zip.md
+    - Queues Stacks:
+      - Priority Queue: data_structures/queues_stacks/priority_queue.md
+      - Queue Deque: data_structures/queues_stacks/queue_deque.md
+      - Stack List: data_structures/queues_stacks/stack_list.md
+    - Sets:
+      - Set Create: data_structures/sets/set_create.md
+      - Set Membership: data_structures/sets/set_membership.md
+      - Set Operations: data_structures/sets/set_operations.md
+      - Set Remove Add: data_structures/sets/set_remove_add.md
+      - Set Subset Superset: data_structures/sets/set_subset_superset.md
+      - Set Unique Elements: data_structures/sets/set_unique_elements.md
+    - Trees:
+      - Tree Dict: data_structures/trees/tree_dict.md
+      - Tree Height: data_structures/trees/tree_height.md
+      - Tree Leaf Nodes: data_structures/trees/tree_leaf_nodes.md
+      - Tree Parent Lookup: data_structures/trees/tree_parent_lookup.md
+      - Tree Path To Node: data_structures/trees/tree_path_to_node.md
+      - Tree Print: data_structures/trees/tree_print.md
+      - Tree Traversal: data_structures/trees/tree_traversal.md
+    - Tuples:
+      - Namedtuple Usage: data_structures/tuples/namedtuple_usage.md
+      - Tuple Create: data_structures/tuples/tuple_create.md
+      - Tuple Unpacking: data_structures/tuples/tuple_unpacking.md
+  - Files:
+    - Append File: files/append_file.md
+    - Change Directory: files/change_directory.md
+    - Copy Directory: files/copy_directory.md
+    - Copy File: files/copy_file.md
+    - Create Directory: files/create_directory.md
+    - Create Nested Directories: files/create_nested_directories.md
+    - Create Temp File: files/create_temp_file.md
+    - Delete Directory: files/delete_directory.md
+    - Delete Directory Recursive: files/delete_directory_recursive.md
+    - Delete File: files/delete_file.md
+    - Directory Exists: files/directory_exists.md
+    - File Checksum: files/file_checksum.md
+    - File Exists: files/file_exists.md
+    - Get Current Directory: files/get_current_directory.md
+    - Get File Modified Time: files/get_file_modified_time.md
+    - Get File Size: files/get_file_size.md
+    - List Directory: files/list_directory.md
+    - List Directory Recursive: files/list_directory_recursive.md
+    - Move File: files/move_file.md
+    - Read Binary File: files/read_binary_file.md
+    - Read File: files/read_file.md
+    - Read File Lines: files/read_file_lines.md
+    - Write Binary File: files/write_binary_file.md
+    - Write File: files/write_file.md
+    - Write Lines: files/write_lines.md
+  - Index: index.md
+  - Math:
+    - Bit Operations: math/bit_operations.md
+    - Calculus: math/calculus.md
+    - Clamp Number: math/clamp_number.md
+    - Complex Math: math/complex_math.md
+    - Decimal Precision: math/decimal_precision.md
+    - Exponents: math/exponents.md
+    - Factorial: math/factorial.md
+    - Fibonacci: math/fibonacci.md
+    - Format Number: math/format_number.md
+    - Fraction Math: math/fraction_math.md
+    - Gcd Lcm: math/gcd_lcm.md
+    - Is Even Odd: math/is_even_odd.md
+    - Is Prime: math/is_prime.md
+    - Linear Algebra: math/linear_algebra.md
+    - Logarithms: math/logarithms.md
+    - Matrices: math/matrices.md
+    - Number Conversion: math/number_conversion.md
+    - Percentage: math/percentage.md
+    - Random Number: math/random_number.md
+    - Roots: math/roots.md
+    - Round Number: math/round_number.md
+    - Statistics Advanced: math/statistics_advanced.md
+    - Statistics Basic: math/statistics_basic.md
+    - Trigonometry: math/trigonometry.md
+    - Vectors: math/vectors.md
+  - Strings:
+    - Camel To Snake: strings/camel_to_snake.md
+    - Capitalize Words: strings/capitalize_words.md
+    - Center String: strings/center_string.md
+    - Count Substring: strings/count_substring.md
+    - Ends With: strings/ends_with.md
+    - Find String: strings/find_string.md
+    - Format String: strings/format_string.md
+    - Is Alpha: strings/is_alpha.md
+    - Is Alphanumeric: strings/is_alphanumeric.md
+    - Is Anagram: strings/is_anagram.md
+    - Is Email: strings/is_email.md
+    - Is Numeric: strings/is_numeric.md
+    - Is Palindrome: strings/is_palindrome.md
+    - Is Url: strings/is_url.md
+    - Join Strings: strings/join_strings.md
+    - Justify Text: strings/justify_text.md
+    - Normalize Whitespace: strings/normalize_whitespace.md
+    - Pad String: strings/pad_string.md
+    - Remove Whitespace: strings/remove_whitespace.md
+    - Replace String: strings/replace_string.md
+    - Reverse String: strings/reverse_string.md
+    - Snake To Camel: strings/snake_to_camel.md
+    - Split String: strings/split_string.md
+    - Starts With: strings/starts_with.md
+    - Strip Chars: strings/strip_chars.md
+    - Title Case: strings/title_case.md
+    - Truncate String: strings/truncate_string.md
+    - Validate Credit Card: strings/validate_credit_card.md
+    - Validate Password: strings/validate_password.md
+    - Validate Phone: strings/validate_phone.md
+    - Wrap Text: strings/wrap_text.md

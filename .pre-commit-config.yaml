@@ -1,0 +1,48 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-added-large-files
+      - id: check-merge-conflict
+      - id: check-case-conflict
+      - id: check-docstring-first
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.12.2
+    hooks:
+      - id: ruff
+        args: [--fix]
+      - id: ruff-format
+
+  - repo: local
+    hooks:
+      - id: update-indexes
+        name: Update Indexes
+        entry: python scripts/update_indexes.py
+        language: system
+        files: ^snippets/.*\.md$
+        pass_filenames: false
+
+      - id: export-snippets
+        name: Export Snippets
+        entry: python scripts/export_snippets_to_py.py
+        language: system
+        files: ^snippets/.*\.md$
+        pass_filenames: false
+
+      - id: validate-snippets
+        name: Validate Snippets
+        entry: python scripts/validate_files.py
+        language: system
+        files: ^snippets/.*\.md$
+        pass_filenames: false
+
+      - id: check-duplicates
+        name: Check Duplicates
+        entry: python scripts/check_duplicate_snippets.py
+        language: system
+        files: ^snippets/.*\.md$
+        pass_filenames: false
