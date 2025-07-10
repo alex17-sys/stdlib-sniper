@@ -1,6 +1,12 @@
+---
+title: Write Binary File
+description: Zero-dependency Python snippets for writing binary files using the standard library.
+keywords: binary, bytes, checksum, data-types, encode, file, md5, open, string, struct, structured, write
+---
+
 # Write Binary File
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for writing binary files using the standard library.
 
 4 snippets available in this sub-category.
 

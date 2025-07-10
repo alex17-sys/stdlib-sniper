@@ -44,9 +44,7 @@ print(log(27, 3))  # 3.0
 import math
 
 
-def log(x, base=math.e):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (log)
 
 
 def log_product(x, y, base=math.e):
@@ -88,9 +86,7 @@ print(f"3*log(2) = {3 * log(2):.3f}")
 import math
 
 
-def log10(x):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (log10)
 
 
 def exp(x):
@@ -131,9 +127,7 @@ print(exp_base(3, 2))  # 2³ = 8
 import math
 
 
-def log(x, base=math.e):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (log)
 
 
 def exp(x):
@@ -214,14 +208,10 @@ print(f"Continuous compound: ${amount:.2f}")
 import math
 
 
-def log(x, base=math.e):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (log)
 
 
-def ln(x):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (ln)
 
 
 def to_log_scale(values, base=10):
@@ -292,9 +282,7 @@ print(f"Log interpolated at 50: {interpolated:.3f}")
 import math
 
 
-def log(x, base=math.e):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (log)
 
 
 def log_power(x, n, base=math.e):
@@ -453,14 +441,10 @@ import time
 import math
 
 
-def log_approximation(x, base=10):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (log_approximation)
 
 
-def ln_series(x, terms=10):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (ln_series)
 
 
 def benchmark_log_methods():
@@ -502,9 +486,7 @@ def benchmark_log_methods():
 
 
 # 🧩 Information theory and entropy
-def log2(x):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (log2)
 
 
 def shannon_entropy(probabilities):
@@ -579,14 +561,10 @@ print(f"KL divergence: {kl:.3f}")
 import math
 
 
-def log10(x):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (log10)
 
 
-def ln(x):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (ln)
 
 
 def exp(x):

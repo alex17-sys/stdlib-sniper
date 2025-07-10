@@ -1,6 +1,12 @@
+---
+title: Create Min-Heap with heapq
+description: Zero-dependency Python snippets for creating and using a min-heap with the standard library heapq module.
+keywords: data-structures, heap, heapify, heapq, min-heap, peek, pop, push, sort
+---
+
 # Create Min-Heap with heapq
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for creating and using a min-heap with the standard library heapq module.
 
 4 snippets available in this sub-category.
 

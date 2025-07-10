@@ -1,6 +1,12 @@
+---
+title: Write File
+description: Zero-dependency Python snippets for writing files using the standard library.
+keywords: atomic, encoding, error-handling, file, function, open, os, string, tempfile, utf-8, write
+---
+
 # Write File
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for writing files using the standard library.
 
 4 snippets available in this sub-category.
 

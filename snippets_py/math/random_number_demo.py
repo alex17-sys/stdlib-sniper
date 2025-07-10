@@ -147,9 +147,7 @@ print(f"Binomial(10,0.3): {random_binomial(10, 0.3)}")
 import random
 
 
-def random_number(min_val=0, max_val=1):
-    # See above defined function
-    pass
+# See above defined function (random_number)
 
 
 def set_random_seed(seed):

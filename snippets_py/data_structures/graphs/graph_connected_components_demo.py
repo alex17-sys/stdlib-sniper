@@ -50,9 +50,7 @@ print(connected_components_bfs(graph))  # [['A', 'B'], ['C', 'D'], ['E']]
 
 
 # 🧩 Edge cases: empty graph, all isolated nodes
-def connected_components(graph):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (connected_components)
 
 
 print(connected_components({}))  # []

@@ -42,9 +42,7 @@ print(percentage_of(0, 100))  # 0.0 (0% of 100)
 
 
 # 🧩 Calculate compound percentage
-def percentage_change(old_value, new_value):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (percentage_change)
 
 
 def compound_percentage(initial, percentage, periods):
@@ -164,9 +162,7 @@ except TypeError as e:
 import time
 
 
-def calculate_percentage(part, total):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (calculate_percentage)
 
 
 def benchmark_percentage():
@@ -212,9 +208,7 @@ print(f"Final grade: {final}%")  # Final grade: 87.1%
 
 
 # 🧩 Sales analysis
-def calculate_percentage(part, total):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (calculate_percentage)
 
 
 def analyze_sales_performance(sales_data):

@@ -1,6 +1,12 @@
+---
+title: List Directory Recursive
+description: Zero-dependency Python snippets for listing directory contents recursively using the standard library.
+keywords: absolute, depth, directory, limit, list, os, paths, recursive, relative, walk
+---
+
 # List Directory Recursive
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for listing directory contents recursively using the standard library.
 
 4 snippets available in this sub-category.
 

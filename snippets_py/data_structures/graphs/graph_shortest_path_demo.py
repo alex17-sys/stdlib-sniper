@@ -51,14 +51,10 @@ print(dijkstra(wgraph, "A", "D"))  # (3, ['A', 'B', 'D']) or (5, ['A', 'C', 'D']
 
 
 # 🧩 Edge cases: disconnected, not found
-def shortest_path(graph, start, end):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (shortest_path)
 
 
-def dijkstra(graph, start, end):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (dijkstra)
 
 
 graph = {"A": {"B"}, "B": {"A"}, "C": set()}

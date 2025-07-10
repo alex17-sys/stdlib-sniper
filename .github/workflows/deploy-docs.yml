@@ -47,6 +47,9 @@ jobs:
         run: |
           mkdocs build
 
+      - name: Add CNAME for custom domain
+        run: echo "stdlib-sniper.heyshinde.com" > site/CNAME
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

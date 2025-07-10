@@ -159,9 +159,7 @@ print(result)  # [('Alice', 25, 'NYC'), ('Bob', 30, 'LA'), ('Charlie', 35, 'Chic
 
 
 # 🧩 Zip lists with error handling
-def zip_lists_different_lengths(*lists, fill_value=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (zip_lists_different_lengths)
 
 
 def zip_lists_safe(*lists, fill_value=None):
@@ -197,14 +195,10 @@ except Exception as e:
 import time
 
 
-def zip_lists_generator(*lists):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (zip_lists_generator)
 
 
-def zip_lists_different_lengths(*lists, fill_value=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (zip_lists_different_lengths)
 
 
 def zip_lists_with_timing(*lists, method="standard"):

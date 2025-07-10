@@ -1,6 +1,12 @@
+---
+title: Convert Dictionary to List (Guide)
+description: Zero-dependency Python snippets for converting dictionaries to lists using the standard library.
+keywords: data-structures, dict, edge-case, filter, flatten, items, keys, nested, performance, sort, to-list, transform, tuple, unique, values
+---
+
 # Convert Dictionary to List (Guide)
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for converting dictionaries to lists using the standard library.
 
 11 snippets available in this sub-category.
 

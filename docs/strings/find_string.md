@@ -1,6 +1,12 @@
+---
+title: Find String
+description: Zero-dependency Python snippets for finding strings using the standard library.
+keywords: all, case, contains, context, end, exists, find, insensitive, limit, multiple, occurrences, pattern, patterns, position, positions, range, regex, search, start, string, substring, surrounding, text
+---
+
 # Find String
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for finding strings using the standard library.
 
 9 snippets available in this sub-category.
 

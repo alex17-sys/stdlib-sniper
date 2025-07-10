@@ -1,6 +1,12 @@
+---
+title: Graph with Adjacency List
+description: Zero-dependency Python snippets for representing and manipulating graphs using adjacency lists (dict of lists/sets).
+keywords: add, adjacency-list, convert, data-structures, directed, edge, edge-list, graph, list, node, remove, set, undirected
+---
+
 # Graph with Adjacency List
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for representing and manipulating graphs using adjacency lists (dict of lists/sets).
 
 5 snippets available in this sub-category.
 

@@ -1,6 +1,12 @@
+---
+title: n Largest and n Smallest with heapq
+description: Zero-dependency Python snippets for finding the n largest and n smallest elements using the standard library heapq module.
+keywords: custom, data-structures, edge-case, heap, heapq, key, max, min, nlargest, nsmallest
+---
+
 # n Largest and n Smallest with heapq
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for finding the n largest and n smallest elements using the standard library heapq module.
 
 4 snippets available in this sub-category.
 

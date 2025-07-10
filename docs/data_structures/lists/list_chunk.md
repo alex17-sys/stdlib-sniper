@@ -1,6 +1,12 @@
+---
+title: Chunk List
+description: Zero-dependency Python snippets for splitting lists into chunks using the standard library.
+keywords: balanced, chunk, condition, custom, data-structures, distribution, error, fill, filter, function, generator, handling, limit, list, maximum, memory, monitoring, overlap, padding, performance, safe, size, sliding, split, timing
+---
+
 # Chunk List
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for splitting lists into chunks using the standard library.
 
 10 snippets available in this sub-category.
 

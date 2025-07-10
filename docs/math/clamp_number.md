@@ -1,6 +1,12 @@
+---
+title: Number Clamping Operations
+description: Zero-dependency Python snippets for clamping numbers to specific ranges using the standard library.
+keywords: animation, audio, benchmarking, bounds, clamp, color, constraints, custom, decay, decibel, edge-case, error-handling, exponential, gradual, hsv, increment, math, negative, normalization, numbers, optimization, performance, physics, positive, range, rgb, snapping, soft, step, unit, validation
+---
+
 # Number Clamping Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for clamping numbers to specific ranges using the standard library.
 
 11 snippets available in this sub-category.
 

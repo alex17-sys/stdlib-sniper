@@ -1,6 +1,12 @@
+---
+title: Percentage Operations
+description: Zero-dependency Python snippets for percentage calculations using the standard library.
+keywords: analysis, average, benchmarking, business, calculation, change, comparison, compound, decrease, difference, direction, edge-case, education, error-handling, finance, grades, growth, math, numbers, optimization, percentage, performance, points, proportion, ratio, relative, sales, validation, weighted
+---
+
 # Percentage Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for percentage calculations using the standard library.
 
 11 snippets available in this sub-category.
 

@@ -11,4 +11,5 @@
     - Queues Stacks: 11
 - Math Snippets: 249
 - Strings Snippets: 228
+- Web Snippets: 121
 - Files Snippets: 100

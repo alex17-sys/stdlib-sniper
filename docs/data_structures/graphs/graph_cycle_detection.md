@@ -1,6 +1,12 @@
+---
+title: Graph Cycle Detection
+description: Zero-dependency Python snippets for detecting cycles in graphs using the standard library.
+keywords: cycle, data-structures, dfs, directed, edge-case, graph, undirected
+---
+
 # Graph Cycle Detection
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for detecting cycles in graphs using the standard library.
 
 3 snippets available in this sub-category.
 

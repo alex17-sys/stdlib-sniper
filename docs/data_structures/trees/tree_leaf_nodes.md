@@ -1,6 +1,12 @@
+---
+title: Find All Leaf Nodes
+description: Zero-dependency Python snippets for finding all leaf nodes in a tree using the standard library.
+keywords: binary, data-structures, dfs, edge-case, find, iterative, leaf, recursive, tree
+---
+
 # Find All Leaf Nodes
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for finding all leaf nodes in a tree using the standard library.
 
 4 snippets available in this sub-category.
 

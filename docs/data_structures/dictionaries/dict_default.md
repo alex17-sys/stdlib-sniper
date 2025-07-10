@@ -1,6 +1,12 @@
+---
+title: Dictionary with Default Values (Guide)
+description: Zero-dependency Python snippets for dictionaries with default values using the standard library.
+keywords: auto, compare, count, counter, custom, data-structures, default, defaultdict, dict, edge-case, factory, get, group, list, missing, nested, performance, setdefault
+---
+
 # Dictionary with Default Values (Guide)
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for dictionaries with default values using the standard library.
 
 11 snippets available in this sub-category.
 

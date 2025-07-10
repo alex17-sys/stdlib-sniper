@@ -74,9 +74,7 @@ print(result3)  # 'hello world python'
 
 
 # 🧩 Reduce list with conditional logic
-def reduce_list(lst, func, initial=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (reduce_list)
 
 
 def reduce_conditional(lst, func, condition_func=None, initial=None):
@@ -188,9 +186,7 @@ print(grouped)  # {'odd': [1, 3, 5, 7, 9], 'even': [2, 4, 6, 8, 10]}
 
 
 # 🧩 Reduce list with error handling
-def reduce_list(lst, func, initial=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (reduce_list)
 
 
 def reduce_safe(lst, func, initial=None):
@@ -293,19 +289,12 @@ print(result2)  # 4999950000
 import time
 
 
-def reduce_generator(lst, func, initial=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (reduce_generator)
+
+# Function is defined in one of the above code block (reduce_list_manual)
 
 
-def reduce_list_manual(lst, func, initial=None):
-    # Function is defined in one of the above code block
-    pass
-
-
-def reduce_list(lst, func, initial=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (reduce_list)
 
 
 def reduce_with_timing(lst, func, method="reduce", initial=None):

@@ -1,6 +1,12 @@
+---
+title: Justify Text Alignment
+description: Justify text with left, right, or center alignment using the standard library.
+keywords: alignment, bias, center, characters, custom, ellipsis, flexible, function, justify, left, lines, ljust, multiline, right, rjust, string, text, textwrap, truncate, unicode, width, wrap
+---
+
 # Justify Text Alignment
 
-Zero-dependency Python snippets using only the standard library.
+Justify text with left, right, or center alignment using the standard library.
 
 10 snippets available in this sub-category.
 

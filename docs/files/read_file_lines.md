@@ -1,6 +1,12 @@
+---
+title: Read File Lines
+description: Zero-dependency Python snippets for reading files line by line using the standard library.
+keywords: enumerate, file, filter, generator, lines, list, read, splitlines
+---
+
 # Read File Lines
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for reading files line by line using the standard library.
 
 4 snippets available in this sub-category.
 

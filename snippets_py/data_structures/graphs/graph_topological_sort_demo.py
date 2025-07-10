@@ -49,14 +49,10 @@ print(topological_sort_kahn(digraph))  # ['A', 'B', 'C', 'D'] or similar
 
 
 # 🧩 Edge cases: empty graph, single node, cycle
-def topological_sort_dfs(graph):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (topological_sort_dfs)
 
 
-def topological_sort_kahn(graph):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (topological_sort_kahn)
 
 
 print(topological_sort_dfs({}))  # []

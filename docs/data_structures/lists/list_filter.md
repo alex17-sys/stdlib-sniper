@@ -1,6 +1,12 @@
+---
+title: Filter List
+description: Zero-dependency Python snippets for filtering lists using the standard library.
+keywords: all, any, builtin, comprehension, condition, conditional, conditions, context, custom, data-structures, enumerate, error, filter, function, generator, handling, index, isinstance, list, logic, memory, monitoring, multiple, optimization, performance, position, safe, timing, transform, type
+---
+
 # Filter List
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for filtering lists using the standard library.
 
 11 snippets available in this sub-category.
 

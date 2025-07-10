@@ -1,6 +1,12 @@
+---
+title: Remove Whitespace
+description: Zero-dependency Python snippets for removing whitespace from strings using the standard library.
+keywords: characters, check, custom, empty, leading, normalize, regex, remove, replace, string, strip, text, trailing, validation, whitespace
+---
+
 # Remove Whitespace
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for removing whitespace from strings using the standard library.
 
 5 snippets available in this sub-category.
 

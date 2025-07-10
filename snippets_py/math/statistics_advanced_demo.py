@@ -168,9 +168,7 @@ print(f"Rolling stddev (3): {rolling_stddev(nums, 3)}")
 import statistics
 
 
-def covariance(x, y, sample=True):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (covariance)
 
 
 def safe_variance(values):
@@ -227,9 +225,7 @@ def benchmark_advanced_statistics():
 
 
 # 🧩 Outlier detection and normalization
-def z_scores(values):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (z_scores)
 
 
 def detect_outliers(values, threshold=2):

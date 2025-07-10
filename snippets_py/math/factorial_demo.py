@@ -162,9 +162,7 @@ print(factorial_calc(7))  # 5040 (uses cached 6!)
 import math
 
 
-def factorial(n):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (factorial)
 
 
 def factorial_approximation(n):
@@ -211,9 +209,7 @@ print(factorial_log_optimized(10))  # ~15.104 (using lgamma)
 import math
 
 
-def factorial(n):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (factorial)
 
 
 def robust_factorial(n):
@@ -269,19 +265,13 @@ except (TypeError, ValueError) as e:
 import time
 
 
-def factorial(n):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (factorial)
 
 
-def factorial_memoized(n, memo=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (factorial_memoized)
 
 
-def factorial_recursive(n):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (factorial_recursive)
 
 
 def benchmark_factorial_methods():
@@ -313,14 +303,10 @@ def benchmark_factorial_methods():
 
 
 # 🧩 Combinatorial calculations
-def factorial(n):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (factorial)
 
 
-def falling_factorial(n, k):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (falling_factorial)
 
 
 def combination(n, k):
@@ -361,9 +347,7 @@ print(multinomial_coefficient(6, 2, 2, 2))  # 90
 
 
 # 🧩 Probability calculations
-def combination(n, k):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (combination)
 
 
 def probability_exact_k_successes(n, k, p):

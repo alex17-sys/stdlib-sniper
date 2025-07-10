@@ -1,6 +1,12 @@
+---
+title: Validate Credit Card Number
+description: Check if a string is a valid credit card number using the standard library.
+keywords: batch, card, country, credit, cvv, date, detection, error, expiration, format, luhn, mask, processing, region, reporting, security, string, text, type, validation
+---
+
 # Validate Credit Card Number
 
-Zero-dependency Python snippets using only the standard library.
+Check if a string is a valid credit card number using the standard library.
 
 9 snippets available in this sub-category.
 

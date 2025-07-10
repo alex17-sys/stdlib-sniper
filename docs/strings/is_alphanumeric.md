@@ -1,6 +1,12 @@
+---
+title: Check if String is Alphanumeric
+description: Check if a string contains alphanumeric characters using the standard library.
+keywords: alphanumeric, characters, custom, digit, end, identifier, isalnum, length, letter, maximum, minimum, pattern, range, regex, spaces, start, string, text, username, validation
+---
+
 # Check if String is Alphanumeric
 
-Zero-dependency Python snippets using only the standard library.
+Check if a string contains alphanumeric characters using the standard library.
 
 12 snippets available in this sub-category.
 

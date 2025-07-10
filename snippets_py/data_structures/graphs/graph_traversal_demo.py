@@ -103,14 +103,13 @@ print(find_path(graph, "A", "D"))  # ['A', 'B', 'D'] or ['A', 'C', 'D']
 
 
 # 🧩 Edge cases: disconnected, not found
-def find_path(graph, start, end, path=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (find_path)
 
 
-def shortest_path(graph, start, end):
-    # Function is defined in (another file Shortest path (BFS, unweighted graph) cited below
-    pass
+# Function is defined in (another file Shortest path (BFS, unweighted graph) cited below also imported (shortest_path)
+
+
+from .graph_shortest_path_demo import shortest_path
 
 
 graph = {"A": {"B"}, "B": {"A"}, "C": set()}

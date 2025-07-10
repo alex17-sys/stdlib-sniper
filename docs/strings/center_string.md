@@ -1,6 +1,12 @@
+---
+title: Center String in Width
+description: Center a string within a specified width using the standard library.
+keywords: alignment, ansi, bias, center, character, characters, codes, color, custom, ellipsis, function, lines, multiline, spaces, string, text, textwrap, truncate, unicode, width, wrap
+---
+
 # Center String in Width
 
-Zero-dependency Python snippets using only the standard library.
+Center a string within a specified width using the standard library.
 
 9 snippets available in this sub-category.
 

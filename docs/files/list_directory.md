@@ -1,6 +1,12 @@
+---
+title: List Directory
+description: Zero-dependency Python snippets for listing directory contents using the standard library.
+keywords: details, directory, file, file-types, filter, glob, list, os, path, pattern, size
+---
+
 # List Directory
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for listing directory contents using the standard library.
 
 4 snippets available in this sub-category.
 

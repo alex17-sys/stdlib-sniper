@@ -1,6 +1,12 @@
+---
+title: Create Nested Directories
+description: Zero-dependency Python snippets for creating nested directories using the standard library.
+keywords: check, create, directory, error-handling, exists, makedirs, mode, nested, os, permissions
+---
+
 # Create Nested Directories
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for creating nested directories using the standard library.
 
 4 snippets available in this sub-category.
 

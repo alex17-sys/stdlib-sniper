@@ -1,6 +1,12 @@
+---
+title: Use deque as Queue (FIFO)
+description: Zero-dependency Python snippets for using collections.deque as a queue (First-In, First-Out) with the standard library.
+keywords: FIFO, bounded, data-structures, deque, dequeue, enqueue, maxlen, peek, queue, thread-safe
+---
+
 # Use deque as Queue (FIFO)
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for using collections.deque as a queue (First-In, First-Out) with the standard library.
 
 4 snippets available in this sub-category.
 

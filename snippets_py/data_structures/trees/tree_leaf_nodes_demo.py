@@ -53,9 +53,7 @@ print(find_leaves_iterative(tree))  # ['B', 'D', 'E']
 
 
 # 🧩 Edge cases: empty tree, single node
-def find_leaves(tree):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (find_leaves)
 
 
 print(find_leaves({}))  # []

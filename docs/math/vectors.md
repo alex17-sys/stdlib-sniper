@@ -1,6 +1,12 @@
+---
+title: Vectors
+description: Zero-dependency Python snippets for vector operations using the standard library (lists/tuples, no numpy).
+keywords: add, angles, benchmarking, complex, create, cross, display, distance, dot, edge-case, error-handling, geometry, math, midpoint, norm, normalize, performance, physics, product, project, reject, scale, subtract, vector
+---
+
 # Vectors
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for vector operations using the standard library (lists/tuples, no numpy).
 
 9 snippets available in this sub-category.
 

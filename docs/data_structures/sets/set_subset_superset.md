@@ -1,6 +1,12 @@
+---
+title: Subset and Superset Relations
+description: Zero-dependency Python snippets for checking subset and superset relations using the standard library.
+keywords: data-structures, issubset, issuperset, proper-subset, proper-superset, set, subset, superset
+---
+
 # Subset and Superset Relations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for checking subset and superset relations using the standard library.
 
 3 snippets available in this sub-category.
 

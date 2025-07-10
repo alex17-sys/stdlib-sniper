@@ -1,6 +1,12 @@
+---
+title: Get File Size
+description: Zero-dependency Python snippets for getting file sizes using the standard library.
+keywords: bytes, directory, error-handling, file, format, human-readable, os, recursive, size, walk
+---
+
 # Get File Size
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for getting file sizes using the standard library.
 
 4 snippets available in this sub-category.
 

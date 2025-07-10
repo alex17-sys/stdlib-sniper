@@ -36,7 +36,7 @@
 ```markdown
 ### 🧩 Snippet Title
 
-# ```python (Uncomment the code block)
+# ```python
 # Your code here
 # ```
 
@@ -117,6 +117,7 @@ We welcome contributions! Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for f
     - Queues Stacks: 11
 - Math Snippets: 249
 - Strings Snippets: 228
+- Web Snippets: 121
 - Files Snippets: 100
 
 <!-- SNIPPET_CATEGORIES_END -->

@@ -14,9 +14,7 @@ print(parent_map)  # {'A': None, 'B': 'A', 'C': 'A', 'D': 'C', 'E': 'C'}
 
 
 # 🧩 Find parent of a node
-def build_parent_map(tree, parent=None, parent_map=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (build_parent_map)
 
 
 tree = {"A": {"B": {}, "C": {"D": {}, "E": {}}}}
@@ -56,9 +54,7 @@ print(parent_map)  # {'A': None, 'B': 'A', 'C': 'A', 'D': 'C', 'E': 'C'}
 
 
 # 🧩 Find ancestors of a node
-def build_parent_map(tree, parent=None, parent_map=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (build_parent_map)
 
 
 tree = {"A": {"B": {}, "C": {"D": {}, "E": {}}}}

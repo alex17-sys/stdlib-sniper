@@ -490,14 +490,10 @@ import time
 import math
 
 
-def exp_approx(x):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (exp_approx)
 
 
-def exp_series(x, terms=10):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (exp_series)
 
 
 def benchmark_exp_methods():

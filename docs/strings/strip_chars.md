@@ -1,6 +1,12 @@
+---
+title: Strip Characters from String
+description: Remove specific characters from the beginning and end of a string using the standard library.
+keywords: character, characters, classes, condition, custom, function, left, lstrip, multiple, pattern, positions, regex, right, rstrip, sets, string, string module, strip, sub, text, tracking, trim, whitespace
+---
+
 # Strip Characters from String
 
-Zero-dependency Python snippets using only the standard library.
+Remove specific characters from the beginning and end of a string using the standard library.
 
 9 snippets available in this sub-category.
 

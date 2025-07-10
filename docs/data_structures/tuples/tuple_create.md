@@ -1,6 +1,12 @@
+---
+title: Create and Use Tuples
+description: Zero-dependency Python snippets for creating and using tuples with the standard library.
+keywords: create, data-structures, dict-key, extended, from-list, from-string, hashable, immutable, matrix, nested, packing, tuple, unpacking
+---
+
 # Create and Use Tuples
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for creating and using tuples with the standard library.
 
 5 snippets available in this sub-category.
 

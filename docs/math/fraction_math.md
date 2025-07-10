@@ -1,6 +1,12 @@
+---
+title: Fraction Math Operations
+description: Zero-dependency Python snippets for fraction arithmetic using the standard library.
+keywords: addition, arithmetic, benchmarking, compare, conversion, create, decimal, division, edge-case, equality, error-handling, expand, float, fraction, from-decimal, from-float, lowest-terms, math, multiplication, order, performance, proportion, ratio, reduce, scaling, simplify, subtraction, validation
+---
+
 # Fraction Math Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for fraction arithmetic using the standard library.
 
 9 snippets available in this sub-category.
 

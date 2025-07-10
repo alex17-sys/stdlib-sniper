@@ -1,6 +1,12 @@
+---
+title: Reverse String
+description: Zero-dependency Python snippets for reversing strings using the standard library.
+keywords: characters, custom, join, preserve, reverse, reversed, selective, slice, split, string, text, words
+---
+
 # Reverse String
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for reversing strings using the standard library.
 
 4 snippets available in this sub-category.
 

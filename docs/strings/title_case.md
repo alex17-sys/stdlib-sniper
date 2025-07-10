@@ -1,6 +1,12 @@
+---
+title: Title Case
+description: Zero-dependency Python snippets for converting text to title case using the standard library.
+keywords: advanced, case, exceptions, hyphen, minor, punctuation, regex, separator, string, text, title, words
+---
+
 # Title Case
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for converting text to title case using the standard library.
 
 4 snippets available in this sub-category.
 

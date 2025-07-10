@@ -26,9 +26,7 @@ print(is_prime(0))  # False
 
 
 # 🧩 Get next prime number
-def is_prime(number):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (is_prime)
 
 
 def next_prime(number):
@@ -69,9 +67,7 @@ print(previous_prime(17))  # 13
 
 
 # 🧩 Check if number is composite
-def is_prime(number):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (is_prime)
 
 
 def is_composite(number):
@@ -215,9 +211,7 @@ print(count_distinct_prime_factors(12))  # 2
 
 
 # 🧩 Generate prime numbers
-def is_prime(number):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (is_prime)
 
 
 def generate_primes_up_to(limit):
@@ -275,9 +269,7 @@ print(prime_range(10, 30))  # [11, 13, 17, 19, 23, 29]
 
 
 # 🧩 Prime number properties
-def is_prime(number):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (is_prime)
 
 
 def is_twin_prime(number):
@@ -348,9 +340,7 @@ print(is_fibonacci_prime(2))  # True (2 is both Fibonacci and prime)
 import math
 
 
-def is_prime(number):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (is_prime)
 
 
 def robust_is_prime(number):
@@ -405,19 +395,13 @@ except TypeError as e:
 import time
 
 
-def is_prime(number):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (is_prime)
 
 
-def is_prime_optimized(number):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (is_prime_optimized)
 
 
-def is_prime_miller_rabin(number, k=5):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (is_prime_miller_rabin)
 
 
 def benchmark_prime_methods():
@@ -452,9 +436,7 @@ def benchmark_prime_methods():
 import math
 
 
-def is_prime_miller_rabin(number, k=5):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (is_prime_miller_rabin)
 
 
 def generate_large_prime(bits=256):
@@ -494,14 +476,10 @@ print(f"Is probable prime: {is_probable_prime(large_prime)}")
 
 
 # 🧩 Mathematical research
-def generate_primes_up_to(limit):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (generate_primes_up_to)
 
 
-def is_twin_prime(number):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (is_twin_prime)
 
 
 def analyze_prime_distribution(limit):

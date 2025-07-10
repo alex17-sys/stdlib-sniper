@@ -1,6 +1,12 @@
+---
+title: Tree Traversal (DFS/BFS)
+description: Zero-dependency Python snippets for traversing trees using the standard library.
+keywords: bfs, binary, data-structures, dfs, inorder, iterative, level-order, postorder, preorder, queue, recursive, stack, tree
+---
+
 # Tree Traversal (DFS/BFS)
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for traversing trees using the standard library.
 
 5 snippets available in this sub-category.
 

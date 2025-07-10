@@ -142,7 +142,35 @@ def main():
                         # This is a regular snippet with code
                         code_match = re.search(r"```python\n(.*?)```", snippet, re.DOTALL)
                         if code_match:
-                            py_lines.append(f"# 🧩 {title}\n{code_match.group(1).strip()}\n")
+                            code = code_match.group(1).strip()
+
+                            # --- BEGIN PATCH: Remove placeholder pass functions ---
+                            def replace_placeholder_functions(code):
+                                lines = code.splitlines()
+                                out_lines = []
+                                i = 0
+                                while i < len(lines):
+                                    line = lines[i]
+                                    func_match = re.match(r"^def (\w+)\s*\(.*\):", line)
+                                    if (
+                                        func_match
+                                        and i + 2 <= len(lines)
+                                        and re.match(r"^\s*#.*", lines[i + 1].strip())
+                                        and re.match(r"^\s*pass\s*$", lines[i + 2].strip())
+                                    ):
+                                        comment = lines[i + 1].strip()
+                                        func_name = func_match.group(1)
+                                        # Append function name in parentheses for traceability
+                                        out_lines.append(f"{comment} ({func_name})")
+                                        i += 3  # Skip function def, comment, and pass
+                                    else:
+                                        out_lines.append(line)
+                                        i += 1
+                                return "\n".join(out_lines)
+
+                            code = replace_placeholder_functions(code)
+                            # --- END PATCH ---
+                            py_lines.append(f"# 🧩 {title}\n{code}\n")
 
                 # Only create the file if we have actual code snippets
                 if py_lines:

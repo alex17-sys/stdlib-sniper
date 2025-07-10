@@ -1,6 +1,12 @@
+---
+title: Exponent Operations
+description: Zero-dependency Python snippets for exponential functions and power operations using the standard library.
+keywords: approximation, benchmarking, chemistry, compound, compound-interest, continued-fraction, cube, decay, edge-case, engineering, equations, error-handling, exponent, exponential, finance, growth, half-life, identities, inequalities, inflation, interpolation, math, newton-raphson, optimization, overflow, performance, physics, power, power-laws, present-value, properties, series, smoothing, solving, square, taylor, validation, weighted-average
+---
+
 # Exponent Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for exponential functions and power operations using the standard library.
 
 10 snippets available in this sub-category.
 

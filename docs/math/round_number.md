@@ -1,6 +1,12 @@
+---
+title: Round Number Operations
+description: Zero-dependency Python snippets for rounding numbers using the standard library.
+keywords: banker-rounding, benchmarking, ceil, compound, currency, custom, decimal, edge-case, error-handling, finance, float-arithmetic, floor, interest, intervals, math, measurement, multiple, numbers, optimization, performance, precision, rounding, scientific, significant-figures, trunc, uncertainty, validation
+---
+
 # Round Number Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for rounding numbers using the standard library.
 
 11 snippets available in this sub-category.
 

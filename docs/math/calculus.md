@@ -1,6 +1,12 @@
+---
+title: Calculus
+description: Zero-dependency Python snippets for basic calculus operations (derivatives, integrals, limits, numerical methods) using the standard library.
+keywords: area, benchmarking, calculus, complex, derivative, edge-case, error-handling, finite-difference, higher-derivative, integral, limit, math, multivariate, numbers, optimization, partial-derivative, performance, physics, simpson, trapezoidal, velocity
+---
+
 # Calculus
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for basic calculus operations (derivatives, integrals, limits, numerical methods) using the standard library.
 
 9 snippets available in this sub-category.
 

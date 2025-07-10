@@ -1,6 +1,12 @@
+---
+title: GCD and LCM Operations
+description: Zero-dependency Python snippets for calculating greatest common divisor (GCD) and least common multiple (LCM) using the standard library.
+keywords: algorithm, arithmetic, benchmarking, bezout, binary, cryptography, edge-case, error-handling, euclidean, extended-euclidean, fractions, gcd, lcm, math, modular-inverse, multiple, numbers, optimization, performance, prime-factorization, recursion, rsa, security, stein, validation
+---
+
 # GCD and LCM Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for calculating greatest common divisor (GCD) and least common multiple (LCM) using the standard library.
 
 11 snippets available in this sub-category.
 

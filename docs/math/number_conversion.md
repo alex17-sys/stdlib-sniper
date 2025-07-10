@@ -1,6 +1,12 @@
+---
+title: Number Conversion
+description: Zero-dependency Python snippets for converting between number bases and types using the standard library.
+keywords: arbitrary, base, benchmarking, bin, bytes, complex, config, conversion, decimal, edge-case, error-handling, float, fraction, hex, int, math, oct, parsing, performance, str, type, user-input
+---
+
 # Number Conversion
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for converting between number bases and types using the standard library.
 
 9 snippets available in this sub-category.
 

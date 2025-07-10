@@ -1,6 +1,12 @@
+---
+title: Replace String
+description: Zero-dependency Python snippets for replacing strings using the standard library.
+keywords: awareness, case, conditional, context, count, custom, function, insensitive, limit, logic, multiple, occurrences, regex, replace, string, substring, text
+---
+
 # Replace String
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for replacing strings using the standard library.
 
 7 snippets available in this sub-category.
 

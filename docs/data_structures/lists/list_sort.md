@@ -1,6 +1,12 @@
+---
+title: Sort List
+description: Zero-dependency Python snippets for sorting lists using the standard library.
+keywords: builtin, criteria, custom, data-structures, dictionary, error, field, function, handling, inplace, key, list, monitoring, multiple, natural, new, numbers, order, performance, preservation, reverse, safe, sort, sorted, stable, string, timing
+---
+
 # Sort List
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for sorting lists using the standard library.
 
 10 snippets available in this sub-category.
 

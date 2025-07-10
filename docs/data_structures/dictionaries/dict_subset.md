@@ -1,6 +1,12 @@
+---
+title: Dictionary Subset Operations
+description: Zero-dependency Python snippets for creating subsets of dictionaries using the standard library.
+keywords: analytics, blacklist, condition, configuration, data-processing, data-structures, deep-access, default, dictionary, edge-case, environment, error-handling, filter, key-filter, keys, lambda, nested, numeric, optimization, pattern, performance, public-data, range, safe, security, subset, type
+---
+
 # Dictionary Subset Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for creating subsets of dictionaries using the standard library.
 
 13 snippets available in this sub-category.
 

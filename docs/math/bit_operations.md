@@ -1,6 +1,12 @@
+---
+title: Bit Operations
+description: Zero-dependency Python snippets for bit manipulation using the standard library.
+keywords: and, benchmarking, bit, bitwise, clear, complex, count, edge-case, encoding, error-handling, extract, field, flags, get, left-shift, mask, math, not, or, pack, performance, permissions, reverse, right-shift, rotate, set, shift, toggle, validation, xor
+---
+
 # Bit Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for bit manipulation using the standard library.
 
 8 snippets available in this sub-category.
 

@@ -1,6 +1,12 @@
+---
+title: Count Substring Occurrences
+description: Count the number of times a substring appears in a string using the standard library.
+keywords: boundaries, case-insensitive, count, dictionary, find, multiple, occurrences, overlapping, positions, regex, string, substring, substrings, text, tracking, word
+---
+
 # Count Substring Occurrences
 
-Zero-dependency Python snippets using only the standard library.
+Count the number of times a substring appears in a string using the standard library.
 
 6 snippets available in this sub-category.
 

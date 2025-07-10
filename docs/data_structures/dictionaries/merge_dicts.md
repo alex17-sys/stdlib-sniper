@@ -1,6 +1,12 @@
+---
+title: Merge Dictionaries
+description: Zero-dependency Python snippets for merging multiple dictionaries using the standard library.
+keywords: conflict, custom, data-structures, deep, dict, edge-case, inplace, merge, multiple, new, operator, or, recursive, reduce, unpacking, update
+---
+
 # Merge Dictionaries
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for merging multiple dictionaries using the standard library.
 
 7 snippets available in this sub-category.
 

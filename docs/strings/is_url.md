@@ -1,6 +1,12 @@
+---
+title: Validate URL Format
+description: Check if a string is a valid URL using the standard library.
+keywords: address, domain, fragment, ip, length, limits, parameters, parse, path, port, protocol, query, regex, string, text, url, urllib, validation
+---
+
 # Validate URL Format
 
-Zero-dependency Python snippets using only the standard library.
+Check if a string is a valid URL using the standard library.
 
 10 snippets available in this sub-category.
 

@@ -202,9 +202,7 @@ def benchmark_statistics_methods():
 import statistics
 
 
-def data_range(values):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (data_range)
 
 
 def calculate_grades(scores):

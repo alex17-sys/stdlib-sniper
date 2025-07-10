@@ -1,6 +1,12 @@
+---
+title: Number Formatting Operations
+description: Zero-dependency Python snippets for formatting numbers using the standard library.
+keywords: alignment, benchmarking, charts, commas, currency, custom, decimal, display, edge-case, error-handling, finance, formatting, international, labels, math, measurement, notation, numbers, optimization, percentage, performance, precision, reporting, scientific, separators, units, validation, visualization
+---
+
 # Number Formatting Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for formatting numbers using the standard library.
 
 11 snippets available in this sub-category.
 

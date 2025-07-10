@@ -1,6 +1,12 @@
+---
+title: Graph Node Degree
+description: Zero-dependency Python snippets for calculating node degrees in graphs using the standard library.
+keywords: data-structures, degree, directed, edge-case, graph, in-degree, out-degree, sequence, undirected
+---
+
 # Graph Node Degree
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for calculating node degrees in graphs using the standard library.
 
 4 snippets available in this sub-category.
 

@@ -1,6 +1,12 @@
+---
+title: Priority Queue with heapq
+description: Zero-dependency Python snippets for implementing a priority queue using the standard library heapq module.
+keywords: custom, data-structures, heap, heapq, max-heap, min-heap, priority-queue
+---
+
 # Priority Queue with heapq
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for implementing a priority queue using the standard library heapq module.
 
 3 snippets available in this sub-category.
 

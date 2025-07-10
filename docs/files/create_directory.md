@@ -1,6 +1,12 @@
+---
+title: Create Directory
+description: Zero-dependency Python snippets for creating directories using the standard library.
+keywords: check, create, directory, error-handling, exists, mkdir, mode, os, permissions, stat
+---
+
 # Create Directory
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for creating directories using the standard library.
 
 4 snippets available in this sub-category.
 

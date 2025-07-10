@@ -1,6 +1,12 @@
+---
+title: Sort Dictionary
+description: Zero-dependency Python snippets for sorting dictionaries using the standard library.
+keywords: ascending, custom, data-structures, descending, dict, edge-case, function, key, nested, sort, stable, value
+---
+
 # Sort Dictionary
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for sorting dictionaries using the standard library.
 
 8 snippets available in this sub-category.
 

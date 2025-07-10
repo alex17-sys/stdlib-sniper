@@ -1,6 +1,12 @@
+---
+title: Check if Strings are Anagrams
+description: Check if two strings are anagrams using the standard library.
+keywords: anagram, analysis, boundaries, comparison, counter, custom, filter, frequency, function, length, minimum, multiple, normalization, optimized, performance, punctuation, regex, sort, string, text, unicode, validation, words
+---
+
 # Check if Strings are Anagrams
 
-Zero-dependency Python snippets using only the standard library.
+Check if two strings are anagrams using the standard library.
 
 11 snippets available in this sub-category.
 

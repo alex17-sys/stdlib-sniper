@@ -1,6 +1,12 @@
+---
+title: Nested Dictionary Access (Guide)
+description: Zero-dependency Python snippets for accessing and manipulating nested dictionaries using the standard library.
+keywords: access, auto, data-structures, deep-get, deep-set, default, defaultdict, delete, dict, edge-case, flatten, get, nested, performance, recursive, safe, setdefault, update
+---
+
 # Nested Dictionary Access (Guide)
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for accessing and manipulating nested dictionaries using the standard library.
 
 11 snippets available in this sub-category.
 

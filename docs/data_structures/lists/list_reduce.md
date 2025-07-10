@@ -1,6 +1,12 @@
+---
+title: Reduce List
+description: Zero-dependency Python snippets for reducing lists to single values using the standard library.
+keywords: accumulator, aggregate, attributes, conditional, custom, data-structures, error, filter, function, generator, grouped, handling, lazy, list, memory, methods, monitoring, multiple, nested, objects, optimization, patterns, performance, reduce, safe, state, statistics, sum, termination, timing, validation
+---
+
 # Reduce List
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for reducing lists to single values using the standard library.
 
 9 snippets available in this sub-category.
 

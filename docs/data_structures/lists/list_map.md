@@ -1,6 +1,12 @@
+---
+title: Map List
+description: Zero-dependency Python snippets for mapping functions over lists using the standard library.
+keywords: attributes, chain, conditional, context, cross-product, data-structures, error, function, functions, generator, handling, index, lazy, list, map, memory, methods, monitoring, multiple, neighbors, nested, objects, optimization, parallel, performance, safe, timing, transform, validation
+---
+
 # Map List
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for mapping functions over lists using the standard library.
 
 9 snippets available in this sub-category.
 

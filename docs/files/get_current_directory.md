@@ -1,6 +1,12 @@
+---
+title: Get Current Directory
+description: Zero-dependency Python snippets for getting the current working directory using the standard library.
+keywords: analysis, components, current, directory, error-handling, getcwd, os, path, permissions, validation, working
+---
+
 # Get Current Directory
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for getting the current working directory using the standard library.
 
 4 snippets available in this sub-category.
 

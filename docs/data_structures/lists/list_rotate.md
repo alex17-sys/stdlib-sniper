@@ -1,6 +1,12 @@
+---
+title: Rotate List
+description: Zero-dependency Python snippets for rotating lists using the standard library.
+keywords: algorithm, buffer, circular, conditional, custom, data-structures, direction, error, generator, handling, inplace, left, list, memory, monitoring, multiple, optimization, performance, positions, reversal, rotate, safe, search, sequence, shift, timing
+---
+
 # Rotate List
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for rotating lists using the standard library.
 
 10 snippets available in this sub-category.
 

@@ -1,6 +1,12 @@
+---
+title: Graph Connected Components
+description: Zero-dependency Python snippets for finding all connected components in an undirected graph using the standard library.
+keywords: bfs, connected-components, data-structures, dfs, edge-case, graph, undirected
+---
+
 # Graph Connected Components
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for finding all connected components in an undirected graph using the standard library.
 
 3 snippets available in this sub-category.
 

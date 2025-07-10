@@ -8,8 +8,9 @@ Zero-dependency Python snippets for calculating the height (maximum depth) of a 
 
 ```python
 def tree_height(tree):
-    # Function is defined in one of the above code block
-    pass
+    if not tree:
+        return 0
+    return 1 + max((tree_height(child) for child in tree.values()), default=0)
 
 
 tree = {"A": {"B": {}, "C": {"D": {}, "E": {}}}}
@@ -85,9 +86,8 @@ print(tree_height_bfs(tree))  # 3
 
 ```python
 def tree_height(tree):
-    if not tree:
-        return 0
-    return 1 + max((tree_height(child) for child in tree.values()), default=0)
+    # Function is defined in one of the above code block
+    pass
 
 
 print(tree_height({}))  # 0

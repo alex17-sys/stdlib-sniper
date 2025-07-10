@@ -159,9 +159,7 @@ for item in reverse_list_generator(numbers):
 import time
 
 
-def reverse_list_generator(lst):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (reverse_list_generator)
 
 
 def reverse_list_with_timing(lst, method="slice"):

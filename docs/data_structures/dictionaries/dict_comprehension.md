@@ -1,6 +1,12 @@
+---
+title: Dictionary Comprehension Guide
+description: Zero-dependency Python snippets for dictionary comprehensions using the standard library.
+keywords: basic, collision, comprehension, conditional, data-structures, default, dict, edge-case, enumerate, error, filter, flatten, get, nested, performance, set, transform, try-except, tuple, zip
+---
+
 # Dictionary Comprehension Guide
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for dictionary comprehensions using the standard library.
 
 16 snippets available in this sub-category.
 

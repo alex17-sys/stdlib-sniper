@@ -1,6 +1,12 @@
+---
+title: Use List as Stack (LIFO)
+description: Zero-dependency Python snippets for using a list as a stack (Last-In, First-Out) with the standard library.
+keywords: LIFO, clear, data-structures, error-handling, list, peek, pop, push, safe, size, stack
+---
+
 # Use List as Stack (LIFO)
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for using a list as a stack (Last-In, First-Out) with the standard library.
 
 4 snippets available in this sub-category.
 

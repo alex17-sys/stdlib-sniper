@@ -36,9 +36,7 @@ print(subtract_matrices(A, B))  # [[-4, -4], [-4, -4]]
 
 
 # 🧩 Matrix multiplication (dot product)
-def create_matrix(rows, cols, fill=0):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (create_matrix)
 
 
 def multiply_matrices(a, b):
@@ -68,9 +66,7 @@ print(transpose_matrix(A))  # [[1, 4], [2, 5], [3, 6]]
 
 
 # 🧩 Identity, zero, and diagonal matrices
-def create_matrix(rows, cols, fill=0):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (create_matrix)
 
 
 def identity_matrix(n):
@@ -121,9 +117,7 @@ print(determinant_3x3(M3))  # -306
 
 
 # 🧩 Inverse (2x2)
-def determinant_2x2(m):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (determinant_2x2)
 
 
 def inverse_2x2(m):
@@ -140,9 +134,7 @@ print(inverse_2x2(M))  # [[0.6, -0.7], [-0.2, 0.4]]
 
 
 # 🧩 Handle invalid matrices
-def add_matrices(a, b):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (add_matrices)
 
 
 def safe_add_matrices(a, b):
@@ -162,14 +154,9 @@ print(safe_add_matrices([[1, 2]], [[1, 2], [3, 4]]))  # Error, returns None
 import time
 
 
-def create_matrix(rows, cols, fill=0):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (create_matrix)
 
-
-def add_matrices(a, b):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (add_matrices)
 
 
 def benchmark_matrix_addition():

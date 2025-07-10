@@ -1,6 +1,12 @@
+---
+title: Trigonometry Operations
+description: Zero-dependency Python snippets for trigonometric functions using the standard library.
+keywords: acos, angles, approximation, asin, atan, audio, benchmarking, conversion, cos, edge-case, equations, error-handling, fourier, geometry, identities, interpolation, inverse, law-of-cosines, law-of-sines, math, normalization, optimization, pendulum, performance, phase, physics, projectile, pythagorean, rotation, series, signal-processing, sin, sinc, smoothing, solving, tan, taylor, triangles, trigonometry, validation, waves
+---
+
 # Trigonometry Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for trigonometric functions using the standard library.
 
 10 snippets available in this sub-category.
 

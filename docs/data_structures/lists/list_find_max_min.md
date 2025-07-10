@@ -1,6 +1,12 @@
+---
+title: Find Max Min
+description: Zero-dependency Python snippets for finding maximum and minimum values in lists and other data structures using the standard library.
+keywords: both, comparison, conditional, custom, data-structures, duplicates, error, filter, find, function, handling, index, indices, key, list, max, maximum, min, minimum, monitoring, multiple, nested, performance, position, recursive, safe, timing
+---
+
 # Find Max Min
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for finding maximum and minimum values in lists and other data structures using the standard library.
 
 11 snippets available in this sub-category.
 

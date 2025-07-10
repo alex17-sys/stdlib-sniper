@@ -1,6 +1,12 @@
+---
+title: Sort List Custom
+description: Zero-dependency Python snippets for sorting lists with custom keys and comparison functions using the standard library.
+keywords: attributes, cmp_to_key, comparison, custom, data-structures, error, function, generator, handling, internationalization, key, keys, list, locale, memory, methods, monitoring, multiple, natural, objects, optimization, performance, preservation, regex, safe, sort, stable, string, timing, tuple
+---
+
 # Sort List Custom
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for sorting lists with custom keys and comparison functions using the standard library.
 
 10 snippets available in this sub-category.
 

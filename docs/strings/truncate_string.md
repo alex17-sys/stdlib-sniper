@@ -1,6 +1,12 @@
+---
+title: Truncate String
+description: Zero-dependency Python snippets for truncating strings using the standard library.
+keywords: advanced, boundary, directions, ellipsis, length, max, min, options, range, slice, string, text, truncate, validate, word
+---
+
 # Truncate String
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for truncating strings using the standard library.
 
 5 snippets available in this sub-category.
 

@@ -1,6 +1,12 @@
+---
+title: Snake to Camel Case
+description: Zero-dependency Python snippets for converting snake_case to camelCase using the standard library.
+keywords: acronyms, camel, case, clean, convert, formats, multiple, preserve, regex, snake, string, text
+---
+
 # Snake to Camel Case
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for converting snake_case to camelCase using the standard library.
 
 4 snippets available in this sub-category.
 

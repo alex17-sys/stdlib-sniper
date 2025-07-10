@@ -1,6 +1,12 @@
+---
+title: Directory Exists
+description: Zero-dependency Python snippets for checking directory existence using the standard library.
+keywords: accessibility, check, directory, exists, isdir, os, path, permissions, status, validate
+---
+
 # Directory Exists
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for checking directory existence using the standard library.
 
 4 snippets available in this sub-category.
 

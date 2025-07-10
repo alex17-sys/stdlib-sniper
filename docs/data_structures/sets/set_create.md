@@ -1,6 +1,12 @@
+---
+title: Create Set
+description: Zero-dependency Python snippets for creating sets from lists or iterables using the standard library.
+keywords: characters, comprehension, condition, create, data-structures, frozenset, generator, hashable, immutable, iterable, list, set, string, tuple, unique
+---
+
 # Create Set
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for creating sets from lists or iterables using the standard library.
 
 5 snippets available in this sub-category.
 

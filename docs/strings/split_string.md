@@ -1,6 +1,12 @@
+---
+title: Split String
+description: Zero-dependency Python snippets for splitting strings using the standard library.
+keywords: comma, delimiter, delimiters, limit, max, multiple, pattern, regex, split, splits, string, text, whitespace, words
+---
+
 # Split String
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for splitting strings using the standard library.
 
 4 snippets available in this sub-category.
 

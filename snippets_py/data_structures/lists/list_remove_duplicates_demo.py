@@ -178,14 +178,10 @@ for item in remove_duplicates_generator(numbers):
 import time
 
 
-def remove_duplicates_ordered(lst):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (remove_duplicates_ordered)
 
 
-def remove_duplicates_set(lst):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (remove_duplicates_set)
 
 
 def remove_duplicates_with_timing(lst, method="ordered"):
@@ -221,14 +217,10 @@ print(f"Set method: {set_stats['execution_time']:.6f}s")
 
 
 # 🧩 Remove duplicates with error handling
-def remove_duplicates_ordered(lst):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (remove_duplicates_ordered)
 
 
-def remove_duplicates_by_key(lst, key_func=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (remove_duplicates_by_key)
 
 
 def remove_duplicates_safe(lst, key_func=None):

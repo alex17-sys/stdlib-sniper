@@ -78,9 +78,7 @@ print(result_left)  # [3, 4, 5, 1, 2]
 
 
 # 🧩 Rotate list with multiple rotations
-def rotate_list(lst, n):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (rotate_list)
 
 
 def rotate_list_multiple(lst, rotations):
@@ -200,19 +198,13 @@ for item in rotate_list_generator(numbers, 2):
 import time
 
 
-def rotate_list_generator(lst, n):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (rotate_list_generator)
 
 
-def rotate_list_inplace(lst, n):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (rotate_list_inplace)
 
 
-def rotate_list(lst, n):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (rotate_list)
 
 
 def rotate_list_with_timing(lst, n, method="slice"):
@@ -253,9 +245,7 @@ print(f"Generator method: {generator_stats['execution_time']:.6f}s")
 
 
 # 🧩 Rotate list with error handling
-def rotate_list_direction(lst, n, direction="right"):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (rotate_list_direction)
 
 
 def rotate_list_safe(lst, n, direction="right"):

@@ -1,6 +1,12 @@
+---
+title: Zip Lists
+description: Zero-dependency Python snippets for zipping multiple lists using the standard library.
+keywords: aggregate, combine, conditional, custom, data-structures, different, enumerate, error, fill, filter, function, generator, handling, index, lengths, list, memory, monitoring, multiple, optimization, pairing, pairs, performance, safe, timing, zip
+---
+
 # Zip Lists
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for zipping multiple lists using the standard library.
 
 10 snippets available in this sub-category.
 

@@ -80,14 +80,9 @@ print(normalize_vector(v))  # [0.6, 0.8]
 import math
 
 
-def dot_product(a, b):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (dot_product)
 
-
-def vector_norm(v):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (vector_norm)
 
 
 def angle_between(a, b):
@@ -108,14 +103,9 @@ print(angle_between(A, B))  # 1.5707963267948966 (pi/2)
 
 
 # 🧩 Projection and rejection
-def dot_product(a, b):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (dot_product)
 
-
-def vector_norm(v):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (vector_norm)
 
 
 def project_vector(a, b):
@@ -141,9 +131,7 @@ print(reject_vector(A, B))  # [0.0, 4.0]
 
 
 # 🧩 Handle invalid vectors
-def add_vectors(a, b):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (add_vectors)
 
 
 def safe_add_vectors(a, b):
@@ -163,9 +151,7 @@ print(safe_add_vectors([1, 2], [1, 2, 3]))  # Error, returns None
 import time
 
 
-def add_vectors(a, b):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (add_vectors)
 
 
 def benchmark_vector_addition():
@@ -182,9 +168,7 @@ def benchmark_vector_addition():
 
 
 # 🧩 Physics and geometry
-def vector_norm(v):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (vector_norm)
 
 
 def distance(a, b):

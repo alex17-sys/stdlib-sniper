@@ -1,6 +1,12 @@
+---
+title: Find Path to Node
+description: Zero-dependency Python snippets for finding the path from root to a given node in a tree using the standard library.
+keywords: binary, data-structures, dfs, edge-case, find, iterative, path, recursive, tree
+---
+
 # Find Path to Node
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for finding the path from root to a given node in a tree using the standard library.
 
 4 snippets available in this sub-category.
 

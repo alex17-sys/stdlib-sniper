@@ -1,6 +1,12 @@
+---
+title: Graph Traversal (DFS/BFS)
+description: Zero-dependency Python snippets for traversing graphs using the standard library.
+keywords: bfs, data-structures, dfs, directed, edge-case, find, graph, iterative, path, queue, recursive, stack, undirected
+---
+
 # Graph Traversal (DFS/BFS)
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for traversing graphs using the standard library.
 
 6 snippets available in this sub-category.
 
@@ -185,6 +191,8 @@ def find_path(graph, start, end, path=None):
 def shortest_path(graph, start, end):
     # Function is defined in (another file Shortest path (BFS, unweighted graph) cited below
     pass
+from .graph_shortest_path_demo import shortest_path
+
 
 
 graph = {"A": {"B"}, "B": {"A"}, "C": set()}

@@ -1,6 +1,12 @@
+---
+title: Prime Number Operations
+description: Zero-dependency Python snippets for checking prime numbers using the standard library.
+keywords: analysis, benchmarking, classification, composite, cryptography, distribution, divisibility, edge-case, eratosthenes, error-handling, exponents, factors, fibonacci, generation, math, mersenne, miller-rabin, next, numbers, optimization, patterns, performance, previous, prime, probabilistic, random, research, safe, security, sequence, sieve, twin, validation
+---
+
 # Prime Number Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for checking prime numbers using the standard library.
 
 11 snippets available in this sub-category.
 

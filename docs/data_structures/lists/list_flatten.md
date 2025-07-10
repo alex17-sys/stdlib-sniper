@@ -1,6 +1,12 @@
+---
+title: Flatten List
+description: Zero-dependency Python snippets for flattening nested lists using the standard library.
+keywords: comprehension, custom, data-structures, depth, error, filter, flatten, function, generator, handling, limit, list, memory, monitoring, nested, optimization, performance, positions, recursion, rules, safe, timing, tracking, type
+---
+
 # Flatten List
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for flattening nested lists using the standard library.
 
 9 snippets available in this sub-category.
 

@@ -1,6 +1,12 @@
+---
+title: Get File Modified Time
+description: Zero-dependency Python snippets for getting file modification times using the standard library.
+keywords: age, datetime, error-handling, file, formatting, human-readable, modification, os, time, timestamp
+---
+
 # Get File Modified Time
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for getting file modification times using the standard library.
 
 4 snippets available in this sub-category.
 

@@ -24,8 +24,9 @@ Thank you for your interest in contributing to **stdlib-sniper**! We welcome all
 ```markdown
 ### 🧩 Snippet Title
 
-python
+# ```python (Uncomment the code block)
 # Your code here
+# ```
 
 📂 Short description of what the snippet does
 

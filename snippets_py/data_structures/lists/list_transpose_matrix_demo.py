@@ -139,14 +139,10 @@ print(result)  # [[1, 4, 7], [2, 5, 8], [3, 6, 9]]
 import time
 
 
-def transpose_matrix_comprehension(matrix):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (transpose_matrix_comprehension)
 
 
-def transpose_matrix_generator(matrix):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (transpose_matrix_generator)
 
 
 def transpose_matrix_with_timing(matrix, method="zip"):

@@ -1,6 +1,12 @@
+---
+title: Merge Lists
+description: Zero-dependency Python snippets for merging multiple lists using the standard library.
+keywords: alternate, combine, concatenate, conditional, custom, data-structures, duplicates, element-wise, error, extend, filter, function, generator, handling, interleave, list, memory, merge, monitoring, multiple, optimization, ordering, performance, priority, safe, sort, sorted, timing, unique
+---
+
 # Merge Lists
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for merging multiple lists using the standard library.
 
 11 snippets available in this sub-category.
 

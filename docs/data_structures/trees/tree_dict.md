@@ -1,6 +1,12 @@
+---
+title: Tree with Nested Dictionaries
+description: Zero-dependency Python snippets for representing and manipulating trees using nested dictionaries.
+keywords: add, child, data-structures, dict, nested, node, preorder, remove, traverse, tree
+---
+
 # Tree with Nested Dictionaries
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for representing and manipulating trees using nested dictionaries.
 
 4 snippets available in this sub-category.
 

@@ -1,6 +1,12 @@
+---
+title: Read File
+description: Zero-dependency Python snippets for reading files using the standard library.
+keywords: chunks, encoding, error-handling, file, function, generator, memory-efficient, open, read, string, utf-8
+---
+
 # Read File
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for reading files using the standard library.
 
 4 snippets available in this sub-category.
 

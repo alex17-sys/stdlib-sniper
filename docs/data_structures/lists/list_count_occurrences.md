@@ -1,6 +1,12 @@
+---
+title: Count Occurrences
+description: Zero-dependency Python snippets for counting occurrences of elements in lists and other data structures using the standard library.
+keywords: all, case, categorization, conditional, count, data-structures, elements, error, filter, frequency, function, generator, group, handling, insensitive, list, matching, memory, monitoring, nested, occurrences, optimization, partial, performance, recursive, safe, string, timing
+---
+
 # Count Occurrences
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for counting occurrences of elements in lists and other data structures using the standard library.
 
 10 snippets available in this sub-category.
 

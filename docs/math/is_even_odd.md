@@ -1,6 +1,12 @@
+---
+title: Even/Odd Number Operations
+description: Zero-dependency Python snippets for checking even and odd numbers using the standard library.
+keywords: average, benchmarking, bitwise, edge-case, error-handling, even, filter, float, floating-point, generation, math, modulo, numbers, odd, optimization, parity, partition, pattern, performance, product, sequence, statistics, sum, tolerance, validation
+---
+
 # Even/Odd Number Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for checking even and odd numbers using the standard library.
 
 11 snippets available in this sub-category.
 

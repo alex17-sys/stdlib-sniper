@@ -1,6 +1,12 @@
+---
+title: Set Operations
+description: Zero-dependency Python snippets for performing set operations using the standard library.
+keywords: chain, combine, common, data-structures, difference, intersection, multiple, set, subtract, symmetric-difference, union, xor
+---
+
 # Set Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for performing set operations using the standard library.
 
 5 snippets available in this sub-category.
 

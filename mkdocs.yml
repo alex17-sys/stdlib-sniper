@@ -1,7 +1,7 @@
 site_name: stdlib-sniper
 site_description: "A curated collection of zero-dependency Python code snippets using only the standard library."
 site_author: "stdlib-sniper contributors"
-site_url: "https://heyshinde.github.io/stdlib-sniper/"
+site_url: "https://stdlib-sniper.heyshinde.com/"
 
 repo_name: heyshinde/stdlib-sniper
 repo_url: https://github.com/heyshinde/stdlib-sniper
@@ -9,6 +9,7 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  custom_dir: docs/overrides
   logo: assets/logo.svg
   favicon: assets/favicon.ico
   palette:
@@ -76,9 +77,9 @@ extra:
     - property: og:description
       content: "A curated collection of zero-dependency Python code snippets using only the standard library."
     - property: og:image
-      content: "https://heyshinde.github.io/stdlib-sniper/assets/logo.svg"
+      content: "https://stdlib-sniper.heyshinde.com/assets/logo.svg"
     - property: og:url
-      content: "https://heyshinde.github.io/stdlib-sniper/"
+      content: "https://stdlib-sniper.heyshinde.com/"
     - name: twitter:card
       content: summary_large_image
     - name: twitter:title
@@ -86,7 +87,7 @@ extra:
     - name: twitter:description
       content: "A curated collection of zero-dependency Python code snippets using only the standard library."
     - name: twitter:image
-      content: "https://heyshinde.github.io/stdlib-sniper/assets/logo.svg"
+      content: "https://stdlib-sniper.heyshinde.com/assets/logo.svg"
 
 extra_css:
   - stylesheets/extra.css
@@ -145,7 +146,6 @@ nav:
 - Wanted Snippets: WANTED_SNIPPETS.md
 - LICENSE: LICENSE
 - Categories:
-  - Wanted Snippets: WANTED_SNIPPETS.md
   - Data Structures:
     - Dictionaries:
       - Dict Comprehension: data_structures/dictionaries/dict_comprehension.md
@@ -294,3 +294,27 @@ nav:
     - Validate Password: strings/validate_password.md
     - Validate Phone: strings/validate_phone.md
     - Wrap Text: strings/wrap_text.md
+  - Web:
+    - Add Query Params: web/add_query_params.md
+    - Build Url: web/build_url.md
+    - Download File: web/download_file.md
+    - Extract Domain: web/extract_domain.md
+    - Http Basic Auth: web/http_basic_auth.md
+    - Http Delete: web/http_delete.md
+    - Http Get: web/http_get.md
+    - Http Headers: web/http_headers.md
+    - Http Post: web/http_post.md
+    - Http Put: web/http_put.md
+    - Http Redirects: web/http_redirects.md
+    - Http Session: web/http_session.md
+    - Http Status Code: web/http_status_code.md
+    - Http Timeout: web/http_timeout.md
+    - Parse Query Params: web/parse_query_params.md
+    - Parse Url: web/parse_url.md
+    - Relative To Absolute: web/relative_to_absolute.md
+    - Remove Query Params: web/remove_query_params.md
+    - Upload File: web/upload_file.md
+    - Url Decode: web/url_decode.md
+    - Url Encode: web/url_encode.md
+    - Url Join: web/url_join.md
+    - Validate Url: web/validate_url.md

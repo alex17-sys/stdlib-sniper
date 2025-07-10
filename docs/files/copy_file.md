@@ -1,6 +1,12 @@
+---
+title: Copy File
+description: Zero-dependency Python snippets for copying files using the standard library.
+keywords: buffer, checksum, copy, file, integrity, large-files, md5, metadata, progress, shutil, verify
+---
+
 # Copy File
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for copying files using the standard library.
 
 4 snippets available in this sub-category.
 

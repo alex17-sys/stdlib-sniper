@@ -62,9 +62,7 @@ print(result)  # "*-*-Hello*-*"
 
 
 # 🧩 Pad with truncation
-def pad_with_char(text, width, char=" ", align="left"):
-    # See above defined function
-    pass
+# See above defined function (pad_with_char)
 
 
 def pad_or_truncate(text, width, char=" ", align="left", truncate_char="..."):
@@ -163,9 +161,7 @@ print(result)  # "*****Hello*****"
 
 
 # 🧩 Pad with number formatting
-def pad_with_char(text, width, char=" ", align="left"):
-    # See above defined function
-    pass
+# See above defined function (pad_with_char)
 
 
 def pad_number(number, width, char=" ", align="right"):

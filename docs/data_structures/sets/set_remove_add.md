@@ -1,6 +1,12 @@
+---
+title: Add and Remove Items from Set
+description: Zero-dependency Python snippets for adding and removing items from sets using the standard library.
+keywords: add, data-structures, delete, difference_update, discard, insert, multiple, pop, remove, safe, set, subtract, update
+---
+
 # Add and Remove Items from Set
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for adding and removing items from sets using the standard library.
 
 6 snippets available in this sub-category.
 

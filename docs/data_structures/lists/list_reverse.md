@@ -1,6 +1,12 @@
+---
+title: Reverse List
+description: Zero-dependency Python snippets for reversing lists using the standard library.
+keywords: builtin, chunk, conditional, custom, data-structures, error, filter, generator, groups, handling, inplace, list, memory, monitoring, new, optimization, partial, performance, recursive, reverse, safe, slice, step, tail, timing
+---
+
 # Reverse List
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for reversing lists using the standard library.
 
 10 snippets available in this sub-category.
 

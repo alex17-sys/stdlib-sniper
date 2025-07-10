@@ -102,9 +102,7 @@ print(result)
 
 
 # 🧩 Justify with truncation
-def justify_text(text, width, align="left", char=" "):
-    # See above defined dunction
-    pass
+# See above defined dunction (justify_text)
 
 
 def justify_or_truncate(text, width, align="left", char=" ", truncate_char="..."):

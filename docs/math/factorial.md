@@ -1,6 +1,12 @@
+---
+title: Factorial Operations
+description: Zero-dependency Python snippets for calculating factorials using the standard library.
+keywords: approximation, benchmarking, binomial, cache, combination, combinatorics, derangement, double-factorial, edge-case, error-handling, factorial, falling, logarithm, math, memoization, numbers, optimization, performance, permutation, probability, recursion, rising, statistics, stirling, subfactorial, validation
+---
+
 # Factorial Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for calculating factorials using the standard library.
 
 11 snippets available in this sub-category.
 

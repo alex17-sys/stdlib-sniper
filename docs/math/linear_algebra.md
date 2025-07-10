@@ -1,6 +1,12 @@
+---
+title: Linear Algebra Operations
+description: Zero-dependency Python snippets for basic linear algebra using the standard library.
+keywords: addition, benchmarking, cross-product, determinant, diagonal, dot-product, edge-case, equations, error-handling, identity, inverse, length, linear-algebra, math, matrix, multiplication, norm, normalization, performance, scalar, solve, subtraction, system, transpose, validation, vector, zero
+---
+
 # Linear Algebra Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for basic linear algebra using the standard library.
 
 10 snippets available in this sub-category.
 

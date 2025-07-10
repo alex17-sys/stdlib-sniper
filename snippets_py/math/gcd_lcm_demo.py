@@ -51,9 +51,7 @@ print(lcm(0, 5))  # 0
 import math
 
 
-def lcm(a, b):
-    # See above defined function
-    pass
+# See above defined function (lcm)
 
 
 def gcd_multiple(*numbers):
@@ -243,9 +241,7 @@ print(lcm_prime_factorization(12, 18))  # 36
 import math
 
 
-def lcm(a, b):
-    # See above defined function
-    pass
+# See above defined function (lcm)
 
 
 def robust_gcd(a, b):
@@ -307,14 +303,9 @@ import time
 import math
 
 
-def binary_gcd(a, b):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (binary_gcd)
 
-
-def gcd_prime_factorization(a, b):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (gcd_prime_factorization)
 
 
 def benchmark_gcd_methods():
@@ -346,9 +337,7 @@ def benchmark_gcd_methods():
 import math
 
 
-def lcm(a, b):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (lcm)
 
 
 def simplify_fraction(numerator, denominator):
@@ -392,9 +381,7 @@ print(f"1/4 + 1/6 = {result[0]}/{result[1]}")  # 5/12
 import math
 
 
-def modular_inverse(a, m):
-    # See above defined function
-    pass
+# See above defined function (modular_inverse)
 
 
 def rsa_key_generation(p, q):

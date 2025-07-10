@@ -1,6 +1,12 @@
+---
+title: Random Number Operations
+description: Zero-dependency Python snippets for generating random numbers using the standard library.
+keywords: benchmarking, boolean, cards, choice, color, constraints, dice, distribution, edge-case, error-handling, exponential, games, generation, lottery, math, modeling, monte-carlo, normal, numbers, optimization, password, performance, permutation, poisson, precision, random, reproducibility, seed, selection, shuffle, simulation, string, validation
+---
+
 # Random Number Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for generating random numbers using the standard library.
 
 11 snippets available in this sub-category.
 

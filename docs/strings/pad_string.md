@@ -1,6 +1,12 @@
+---
+title: Pad String to Width
+description: Pad a string to a specified width using the standard library.
+keywords: alignment, ansi, character, characters, codes, color, custom, ellipsis, formatting, numbers, offset, pad, pattern, repeating, spaces, string, text, truncate, unicode, width
+---
+
 # Pad String to Width
 
-Zero-dependency Python snippets using only the standard library.
+Pad a string to a specified width using the standard library.
 
 8 snippets available in this sub-category.
 

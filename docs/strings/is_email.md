@@ -1,6 +1,12 @@
+---
+title: Validate Email Address
+description: Check if a string is a valid email address using the standard library.
+keywords: case, comprehensive, domain, email, length, limits, local, part, patterns, regex, rfc, sensitive, string, text, tld, validation
+---
+
 # Validate Email Address
 
-Zero-dependency Python snippets using only the standard library.
+Check if a string is a valid email address using the standard library.
 
 9 snippets available in this sub-category.
 

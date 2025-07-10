@@ -1,6 +1,12 @@
+---
+title: File Exists
+description: Zero-dependency Python snippets for checking file existence using the standard library.
+keywords: access, exists, file, isdir, isfile, islink, os, path, permissions, size
+---
+
 # File Exists
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for checking file existence using the standard library.
 
 4 snippets available in this sub-category.
 

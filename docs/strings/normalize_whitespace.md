@@ -1,6 +1,12 @@
+---
+title: Normalize Whitespace
+description: Zero-dependency Python snippets for normalizing whitespace in strings using the standard library.
+keywords: advanced, all, custom, newlines, normalize, preserve, regex, rules, spaces, string, text, whitespace
+---
+
 # Normalize Whitespace
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for normalizing whitespace in strings using the standard library.
 
 4 snippets available in this sub-category.
 

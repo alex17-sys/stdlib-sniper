@@ -1,6 +1,12 @@
+---
+title: Matrices
+description: Zero-dependency Python snippets for matrix operations using the standard library (lists of lists, no numpy).
+keywords: 2x2, 3x3, add, benchmarking, create, determinant, diagonal, display, dot-product, edge-case, error-handling, identity, inverse, math, matrix, multiply, performance, solve, subtract, system, transpose, zero
+---
+
 # Matrices
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for matrix operations using the standard library (lists of lists, no numpy).
 
 10 snippets available in this sub-category.
 

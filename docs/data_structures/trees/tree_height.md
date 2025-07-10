@@ -1,6 +1,12 @@
+---
+title: Tree Height / Depth
+description: Zero-dependency Python snippets for calculating the height (maximum depth) of a tree using the standard library.
+keywords: bfs, binary, data-structures, depth, edge-case, height, iterative, recursive, tree
+---
+
 # Tree Height / Depth
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for calculating the height (maximum depth) of a tree using the standard library.
 
 4 snippets available in this sub-category.
 
@@ -16,8 +22,9 @@ Calculate height of a general tree (root = 1)
 
 ```python
 def tree_height(tree):
-    # Function is defined in one of the above code block
-    pass
+    if not tree:
+        return 0
+    return 1 + max((tree_height(child) for child in tree.values()), default=0)
 
 
 tree = {"A": {"B": {}, "C": {"D": {}, "E": {}}}}
@@ -102,9 +109,8 @@ Handle edge cases for tree height
 
 ```python
 def tree_height(tree):
-    if not tree:
-        return 0
-    return 1 + max((tree_height(child) for child in tree.values()), default=0)
+    # Function is defined in one of the above code block
+    pass
 
 
 print(tree_height({}))  # 0

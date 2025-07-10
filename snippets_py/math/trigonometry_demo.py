@@ -389,15 +389,10 @@ except (TypeError, ValueError) as e:
 import time
 import math
 
-
-def sin_series(x, terms=10):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (sin_series)
 
 
-def sin(angle, degrees=False):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (sin)
 
 
 def benchmark_trig_methods():

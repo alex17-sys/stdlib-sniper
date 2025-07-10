@@ -1,6 +1,12 @@
+---
+title: Move File
+description: Zero-dependency Python snippets for moving and renaming files using the standard library.
+keywords: backup, confirmation, file, move, os, rename, shutil, timestamp, validation
+---
+
 # Move File
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for moving and renaming files using the standard library.
 
 4 snippets available in this sub-category.
 

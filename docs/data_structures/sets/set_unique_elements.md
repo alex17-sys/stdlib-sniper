@@ -1,6 +1,12 @@
+---
+title: Get Unique Elements from List
+description: Zero-dependency Python snippets for extracting unique elements from a list using the standard library.
+keywords: custom, data-structures, duplicates, key, list, order, set, unique
+---
+
 # Get Unique Elements from List
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for extracting unique elements from a list using the standard library.
 
 3 snippets available in this sub-category.
 

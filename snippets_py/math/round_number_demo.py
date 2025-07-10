@@ -169,9 +169,7 @@ import time
 from decimal import ROUND_HALF_UP
 
 
-def round_decimal_precise(number, places=0, rounding_mode=ROUND_HALF_UP):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (round_decimal_precise)
 
 
 def benchmark_rounding():
@@ -197,9 +195,7 @@ def benchmark_rounding():
 
 
 # 🧩 Financial calculations
-def round_currency(amount, currency="USD"):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (round_currency)
 
 
 def calculate_interest(principal, rate, time, compound_periods=12):
@@ -218,9 +214,7 @@ print(f"Final amount: ${interest}")  # $1104.94
 
 
 # 🧩 Scientific measurements
-def round_to_sig_figs(number, sig_figs):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (round_to_sig_figs)
 
 
 def round_measurement(value, uncertainty, sig_figs=2):

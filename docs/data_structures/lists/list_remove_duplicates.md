@@ -1,6 +1,12 @@
+---
+title: Remove Duplicates from List
+description: Zero-dependency Python snippets for removing duplicates from lists using the standard library.
+keywords: analysis, case-insensitive, comparison, conversion, counter, custom, data-structures, dictionary, duplicates, error, fields, frequency, function, generator, handling, key, list, memory, monitoring, optimization, order, performance, remove, safe, set, string, timing
+---
+
 # Remove Duplicates from List
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for removing duplicates from lists using the standard library.
 
 10 snippets available in this sub-category.
 

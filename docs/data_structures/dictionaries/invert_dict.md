@@ -1,6 +1,12 @@
+---
+title: Invert Key-Value Pairs
+description: Zero-dependency Python snippets for inverting key-value pairs in dictionaries using the standard library.
+keywords: 1-to-1, comprehension, data-structures, defaultdict, dict, edge-case, error, group, invert, many-to-one, nested, non-hashable, one-to-many, overwrite
+---
+
 # Invert Key-Value Pairs
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for inverting key-value pairs in dictionaries using the standard library.
 
 7 snippets available in this sub-category.
 

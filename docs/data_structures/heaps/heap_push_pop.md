@@ -1,6 +1,12 @@
+---
+title: Push and Pop from Heap
+description: Zero-dependency Python snippets for pushing and popping from a heap using the standard library heapq module.
+keywords: data-structures, efficient, heap, heappushpop, heapq, heapreplace, min-heap, pop, push, replace
+---
+
 # Push and Pop from Heap
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for pushing and popping from a heap using the standard library heapq module.
 
 3 snippets available in this sub-category.
 

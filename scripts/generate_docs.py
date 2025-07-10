@@ -75,8 +75,30 @@ def generate_snippet_markdown(snippet):
 """
 
 
-def generate_category_page(category_name, snippets, file_description=None, file_path=None):
-    """Generate MkDocs Markdown page for a category, using the # heading from the file as the page title if present, and including any trailing content after the last snippet (excluding snippet metadata)."""
+def extract_page_description(file_content):
+    """Extract the first non-empty paragraph after the title as the description."""
+    lines = file_content.splitlines()
+    found_title = False
+    for i, line in enumerate(lines):
+        if line.strip().startswith("# "):
+            found_title = True
+            continue
+        if found_title:
+            # Find first non-empty, non-heading, non-metadata line
+            if (
+                line.strip()
+                and not line.strip().startswith("#")
+                and not line.strip().startswith("---")
+            ):
+                return line.strip()
+    # Fallback
+    return "Zero-dependency Python snippets using only the standard library."
+
+
+def generate_category_page(
+    category_name, snippets, file_description=None, file_path=None, rel_path=None
+):
+    """Generate MkDocs Markdown page for a category, with YAML front matter only (no meta tags in Markdown)."""
     page_title = category_name
     trailing_content = ""
     file_content = ""
@@ -87,8 +109,16 @@ def generate_category_page(category_name, snippets, file_description=None, file_
                 if line.strip().startswith("# "):
                     page_title = line.strip().lstrip("#").strip()
                     break
+    # Extract description from file content
+    page_description = (
+        extract_page_description(file_content)
+        if file_content
+        else (
+            file_description or "Zero-dependency Python snippets using only the standard library."
+        )
+    )
     if not file_description:
-        file_description = "Zero-dependency Python snippets using only the standard library."
+        file_description = page_description
     snippets_md = "\n".join([generate_snippet_markdown(snippet) for snippet in snippets])
     # Find the end of the last snippet and include only true trailing content
     if snippets and file_content:
@@ -115,7 +145,17 @@ def generate_category_page(category_name, snippets, file_description=None, file_
                     else:
                         break
                 trailing_content = "\n".join(lines[i:]).strip("\n")
-    return f"""# {page_title}
+    # Collect all unique tags from all snippets
+    all_tags = set()
+    for snippet in snippets:
+        all_tags.update(snippet.get("tags", []))
+    keywords = ", ".join(sorted(all_tags))
+    # YAML front matter only
+    yaml_front_matter = (
+        f"---\ntitle: {page_title}\ndescription: {page_description}\nkeywords: {keywords}\n---\n"
+    )
+    return f"""{yaml_front_matter}
+# {page_title}
 
 {file_description}
 
@@ -132,7 +172,7 @@ def build_nav_tree(base_dir, docs_dir):
     """Recursively build a nested navigation tree from the docs directory, excluding CONTRIBUTING.md."""
     nav = []
     for entry in sorted(os.listdir(docs_dir)):
-        if entry in ("CONTRIBUTING.md", "WANTED_SNIPPETS.md, LICENSE"):
+        if entry in ("CONTRIBUTING.md", "WANTED_SNIPPETS.md", "LICENSE"):
             continue  # Exclude from categories
         full_path = os.path.join(docs_dir, entry)
         rel_path = os.path.relpath(full_path, base_dir)
@@ -203,7 +243,7 @@ def main():
 
     # Remove all files/folders in docs except assets, javascripts, stylesheets
     for entry in os.listdir(DOCS_DIR):
-        if entry not in {"assets", "javascripts", "stylesheets"}:
+        if entry not in {"assets", "javascripts", "stylesheets", "overrides"}:
             path = os.path.join(DOCS_DIR, entry)
             if os.path.isdir(path):
                 shutil.rmtree(path)
@@ -240,8 +280,13 @@ def main():
                     )
 
                     # Generate category page
+                    rel_path = os.path.join(rel_dir, fname) if rel_dir else fname
                     category_md = generate_category_page(
-                        category_name, snippets, file_description=None, file_path=snippet_path
+                        category_name,
+                        snippets,
+                        file_description=None,
+                        file_path=snippet_path,
+                        rel_path=rel_path,
                     )
 
                     out_path = os.path.join(docs_subdir, fname)

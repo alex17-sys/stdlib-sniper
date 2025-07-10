@@ -1,6 +1,12 @@
+---
+title: Capitalize Words
+description: Zero-dependency Python snippets for capitalizing words in strings using the standard library.
+keywords: capitalize, contractions, custom, exceptions, first, hyphens, regex, string, text, title, words
+---
+
 # Capitalize Words
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for capitalizing words in strings using the standard library.
 
 4 snippets available in this sub-category.
 

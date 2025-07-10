@@ -1,6 +1,12 @@
+---
+title: Validate Phone Number
+description: Validate phone number formats using regular expressions and string manipulation.
+keywords: US, basic, extension, extraction, formatting, international, normalization, parsing, phone, regex, standard, text, validation
+---
+
 # Validate Phone Number
 
-Zero-dependency Python snippets using only the standard library.
+Validate phone number formats using regular expressions and string manipulation.
 
 8 snippets available in this sub-category.
 

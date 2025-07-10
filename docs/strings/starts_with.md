@@ -1,6 +1,12 @@
+---
+title: Check String Starts With
+description: Check if a string starts with a specific prefix using the standard library.
+keywords: case-insensitive, check, condition, conditions, custom, function, match, multiple, offset, pattern, position, prefix, prefixes, regex, slice, startswith, string, text, tuple, validation
+---
+
 # Check String Starts With
 
-Zero-dependency Python snippets using only the standard library.
+Check if a string starts with a specific prefix using the standard library.
 
 7 snippets available in this sub-category.
 

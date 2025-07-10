@@ -1,6 +1,12 @@
+---
+title: Fibonacci Operations
+description: Zero-dependency Python snippets for generating Fibonacci sequences using the standard library.
+keywords: algorithms, approximation, art, benchmarking, binet, cache, data-structures, edge-case, error-handling, exponentiation, fibonacci, golden-ratio, lucas, math, matrix, memoization, nature, nth, numbers, optimization, performance, recursion, search, sequence, spiral, tribonacci, validation
+---
+
 # Fibonacci Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for generating Fibonacci sequences using the standard library.
 
 11 snippets available in this sub-category.
 

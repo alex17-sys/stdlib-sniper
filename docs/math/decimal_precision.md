@@ -1,6 +1,12 @@
+---
+title: Decimal Precision Operations
+description: Zero-dependency Python snippets for decimal arithmetic with precision using the standard library.
+keywords: addition, arithmetic, benchmarking, compare, context, currency, decimal, division, edge-case, equality, error-handling, exp, finance, float, global, interest, ln, localcontext, log10, math, multiplication, performance, precision, quantize, rounding, sqrt, subtraction, validation
+---
+
 # Decimal Precision Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for decimal arithmetic with precision using the standard library.
 
 9 snippets available in this sub-category.
 

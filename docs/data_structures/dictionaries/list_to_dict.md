@@ -1,6 +1,12 @@
+---
+title: List to Dictionary (Guide)
+description: Zero-dependency Python snippets for converting lists to dictionaries using the standard library.
+keywords: aggregate, comprehension, data-structures, default, dict, duplicates, edge-case, enumerate, error, flatten, fromkeys, list, merge, performance, sum, to-dict, tuple, zip
+---
+
 # List to Dictionary (Guide)
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for converting lists to dictionaries using the standard library.
 
 12 snippets available in this sub-category.
 

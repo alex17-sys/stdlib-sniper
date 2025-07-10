@@ -1228,3 +1228,171 @@
 - **🧩 Wrap text with fill**
 - **🧩 Wrap text with custom options**
 - **🧩 Wrap text with custom break function**
+
+## Web Snippets
+### Add Query Parameters to URL
+- **🧩 Add new query parameters to URL**
+- **🧩 Replace existing query parameters**
+- **🧩 Add multiple values for a single key**
+- **🧩 Add to URL with empty or no query string**
+
+### Build URL
+- **🧩 Build URL from components**
+- **🧩 Add or replace query parameters in URL**
+- **🧩 Join base and relative URLs**
+- **🧩 Build URL with user, password, and port**
+- **🧩 Build URL with fragment and params**
+- **🧩 Build URL with missing parts and double slashes**
+
+### Download File via HTTP
+- **🧩 Simple file download**
+- **🧩 Download file with progress bar**
+- **🧩 Download with custom headers and error handling**
+- **🧩 Download large file (streaming, low memory)**
+- **🧩 Invalid URL and disk full**
+
+### Extract Domain from URL
+- **🧩 Extract netloc (host:port) from URL**
+- **🧩 Extract host (domain) only (without port)**
+- **🧩 Extract port from URL**
+- **🧩 Extract registered domain (TLD split, basic)**
+- **🧩 Extract domain from IPv6 URL**
+- **🧩 Extract from URL with missing netloc or malformed URL**
+
+### HTTP Basic Authentication
+- **🧩 HTTP GET with Basic Auth**
+- **🧩 HTTP POST with Basic Auth**
+- **🧩 HTTP GET with Basic Auth using HTTPPasswordMgr**
+- **🧩 Error handling and invalid credentials**
+- **🧩 Missing or malformed Authorization header**
+
+### HTTP DELETE Request
+- **🧩 Simple HTTP DELETE request**
+- **🧩 HTTP DELETE with custom headers**
+- **🧩 HTTP DELETE with query parameters**
+- **🧩 HTTP DELETE with authentication (Basic Auth)**
+- **🧩 HTTP DELETE with error handling**
+- **🧩 Invalid URL, unsupported method, missing authentication**
+
+### HTTP GET Request
+- **🧩 Simple HTTP GET request**
+- **🧩 HTTP GET with custom headers**
+- **🧩 HTTP GET with error handling**
+- **🧩 HTTP GET streaming (binary data)**
+- **🧩 HTTP GET with timeout and redirect handling**
+- **🧩 HTTP GET with proxy support**
+- **🧩 HTTP GET ignoring SSL certificate errors**
+
+### Set Custom HTTP Headers
+- **🧩 HTTP GET with custom headers**
+- **🧩 HTTP POST with custom headers**
+- **🧩 HTTP GET with Authorization header (Bearer token)**
+- **🧩 HTTP GET with custom User-Agent and Accept headers**
+- **🧩 Case-insensitivity and invalid headers**
+- **🧩 Missing or None headers**
+
+### HTTP POST Request
+- **🧩 Simple HTTP POST request (form data)**
+- **🧩 HTTP POST with custom headers**
+- **🧩 HTTP POST with JSON body**
+- **🧩 HTTP POST with error handling**
+- **🧩 HTTP POST file upload (multipart/form-data)**
+- **🧩 HTTP POST with timeout and proxy**
+
+### HTTP PUT Request
+- **🧩 Simple HTTP PUT request (string data)**
+- **🧩 HTTP PUT with custom headers**
+- **🧩 HTTP PUT with JSON body**
+- **🧩 HTTP PUT file upload (binary data)**
+- **🧩 HTTP PUT with error handling**
+- **🧩 Invalid URL, large file, unsupported method**
+
+### HTTP Redirects
+- **🧩 Default redirect handling (automatic)**
+- **🧩 Disable redirects (block all)**
+- **🧩 Custom redirect handler (limit number of redirects)**
+- **🧩 Capture redirect chain (history)**
+- **🧩 POST/PUT/DELETE with redirects**
+- **🧩 Redirect loop and too many redirects**
+
+### HTTP Session (Persistent Cookies & Headers)
+- **🧩 Simple HTTP session with cookies**
+- **🧩 HTTP session with custom headers**
+- **🧩 Simulate login and session persistence**
+- **🧩 Error handling and edge cases**
+- **🧩 Session reset and manual cookie management**
+
+### HTTP Status Code Handling
+- **🧩 Get status code from response**
+- **🧩 Handle specific status codes (success, redirect, error)**
+- **🧩 Custom error handling for 401, 403, 500**
+- **🧩 Map status codes to messages**
+- **🧩 Check for success/failure**
+- **🧩 Non-standard codes and missing status**
+
+### HTTP Request Timeout
+- **🧩 HTTP GET with timeout**
+- **🧩 HTTP POST with timeout**
+- **🧩 Custom timeout and edge cases**
+
+### Parse Query Parameters from URL
+- **🧩 Extract all query parameters as a dictionary**
+- **🧩 Extract single-value query parameters**
+- **🧩 Handle repeated keys in query string**
+- **🧩 Parse query string with missing values and encoded values**
+- **🧩 Parse empty query string**
+
+### Parse URL
+- **🧩 Parse URL into components**
+- **🧩 Extract individual URL components**
+- **🧩 Parse query parameters from URL**
+- **🧩 Handle missing scheme and relative URLs**
+- **🧩 Parse non-standard ports and user info**
+- **🧩 Parse URL with IPv6 address**
+
+### Convert Relative URL to Absolute URL
+- **🧩 Convert relative URL to absolute using base**
+- **🧩 Convert with dot segments (.. and .)**
+- **🧩 Convert already absolute URL**
+- **🧩 Convert with empty base or malformed URLs**
+
+### Remove Query Parameters from URL
+- **🧩 Remove a single query parameter**
+- **🧩 Remove multiple query parameters**
+- **🧩 Remove all query parameters**
+- **🧩 Remove non-existent or encoded keys, empty query**
+
+### Upload File via HTTP (multipart/form-data)
+- **🧩 Simple file upload (multipart/form-data)**
+- **🧩 Upload file with custom headers and error handling**
+- **🧩 Upload multiple files (multipart/form-data)**
+- **🧩 Upload file with progress reporting**
+- **🧩 Large/unsupported files and permission errors**
+
+### URL Decode String
+- **🧩 Decode query string parameters**
+- **🧩 Decode path segment**
+- **🧩 Decode form data from POST**
+- **🧩 Decode with Unicode and reserved characters**
+- **🧩 Double decoding and empty values**
+
+### URL Encode String
+- **🧩 Encode query string parameters**
+- **🧩 Encode path segment**
+- **🧩 Encode form data for POST**
+- **🧩 Encode with Unicode and reserved characters**
+- **🧩 Encode already-encoded strings and empty values**
+
+### URL Join
+- **🧩 Join base and relative URLs**
+- **🧩 Join with dot segments (.. and .)**
+- **🧩 Join with/without trailing slashes**
+- **🧩 Join with query and fragment**
+- **🧩 Join with absolute relative URL**
+- **🧩 Join with empty base or malformed URLs**
+
+### Validate URL
+- **🧩 Check if URL has valid scheme and netloc**
+- **🧩 Validate URL with regex (basic)**
+- **🧩 Validate URL with reserved domains and invalid characters**
+- **🧩 Validate missing scheme, empty, or malformed URLs**

@@ -1,6 +1,12 @@
+---
+title: Format String
+description: Zero-dependency Python snippets for formatting strings using the standard library.
+keywords: advanced, arguments, conditional, custom, decimal, dynamic, f-string, format, functions, indent, interpolation, logic, multiline, named, numbers, placeholders, positional, precision, specifications, string, substitution, template, text
+---
+
 # Format String
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for formatting strings using the standard library.
 
 9 snippets available in this sub-category.
 

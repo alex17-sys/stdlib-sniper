@@ -1,6 +1,12 @@
+---
+title: Transpose Matrix
+description: Zero-dependency Python snippets for transposing 2D lists (matrices) using the standard library.
+keywords: 2d, comprehension, custom, data-structures, error, fill, generator, handling, inplace, irregular, list, matrix, memory, monitoring, performance, safe, square, timing, transform, transpose, validation
+---
+
 # Transpose Matrix
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for transposing 2D lists (matrices) using the standard library.
 
 9 snippets available in this sub-category.
 

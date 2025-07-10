@@ -1,6 +1,12 @@
+---
+title: Group by Key (Dictionary Grouping Guide)
+description: Zero-dependency Python snippets for grouping items by key using the standard library.
+keywords: aggregate, count, custom, data-structures, defaultdict, dict, edge-case, flatten, function, group, groupby, invert, itertools, manual, multi-key, order, ordered-dict, pairs, performance, set, sum, tuple, unique, value
+---
+
 # Group by Key (Dictionary Grouping Guide)
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for grouping items by key using the standard library.
 
 12 snippets available in this sub-category.
 

@@ -1,6 +1,12 @@
+---
+title: Roots
+description: Zero-dependency Python snippets for extracting roots (square, cube, nth) using the standard library.
+keywords: benchmarking, cbrt, complex, cube-root, edge-case, error-handling, finance, general, geometry, integer, interest, math, nth-root, perfect-cube, perfect-square, performance, pythagoras, root, sqrt, square-root
+---
+
 # Roots
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for extracting roots (square, cube, nth) using the standard library.
 
 8 snippets available in this sub-category.
 

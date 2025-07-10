@@ -49,9 +49,7 @@ print(result)  # [1, 2, 3, 4, 5, 6, 7, 8]
 
 
 # 🧩 Merge lists with custom merge function
-def merge_multiple_lists(*lists):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (merge_multiple_lists)
 
 
 def merge_lists_custom(*lists, merge_func=None):
@@ -127,9 +125,7 @@ print(result)  # [2, 4, 6, 8, 10, 12, 14]
 
 
 # 🧩 Merge lists with sorting
-def merge_multiple_lists(*lists):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (merge_multiple_lists)
 
 
 def merge_lists_sorted(*lists, reverse=False):
@@ -210,14 +206,10 @@ print(result)  # [7, 8, 9, 4, 5, 6, 1, 2, 3]
 import time
 
 
-def merge_lists_unique(*lists):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (merge_lists_unique)
 
 
-def merge_multiple_lists(*lists):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (merge_multiple_lists)
 
 
 def merge_lists_with_timing(*lists, method="extend"):
@@ -259,9 +251,7 @@ print(f"Concatenate method: {concat_stats['execution_time']:.6f}s")
 
 
 # 🧩 Merge lists with error handling
-def merge_multiple_lists(*lists):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (merge_multiple_lists)
 
 
 def merge_lists_safe(*lists):
@@ -291,9 +281,7 @@ except Exception as e:
 
 
 # 🧩 Merge lists with memory optimization
-def merge_multiple_lists(*lists):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (merge_multiple_lists)
 
 
 def merge_lists_generator(*lists):

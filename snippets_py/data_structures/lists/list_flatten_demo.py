@@ -174,9 +174,7 @@ except (RecursionError, ValueError) as e:
 import time
 
 
-def flatten_list(nested_list):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (flatten_list)
 
 
 def flatten_list_with_timing(nested_list):

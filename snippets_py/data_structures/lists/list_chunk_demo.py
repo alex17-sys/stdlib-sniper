@@ -114,9 +114,7 @@ print(result2)  # [[1], [3], [5, 7], []]
 
 
 # 🧩 Split list with maximum chunks
-def chunk_list(lst, chunk_size):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (chunk_list)
 
 
 def chunk_list_max_chunks(lst, max_chunks):
@@ -221,19 +219,13 @@ print(result2)  # [[1, 2, 3], [4, 5, 6], [7, 8], [9, 10]]
 import time
 
 
-def chunk_list_balanced(lst, num_chunks):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (chunk_list_balanced)
 
 
-def chunk_list_generator(lst, chunk_size):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (chunk_list_generator)
 
 
-def chunk_list(lst, chunk_size):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (chunk_list)
 
 
 def chunk_list_with_timing(lst, chunk_size, method="comprehension"):
@@ -274,14 +266,10 @@ print(f"Balanced method: {bal_stats['execution_time']:.6f}s")
 
 
 # 🧩 Split list with error handling
-def chunk_list_with_fill(lst, chunk_size, fill_value=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (chunk_list_with_fill)
 
 
-def chunk_list(lst, chunk_size):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (chunk_list)
 
 
 def chunk_list_safe(lst, chunk_size, fill_value=None):

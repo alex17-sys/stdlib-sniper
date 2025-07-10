@@ -1,6 +1,12 @@
+---
+title: Join Strings
+description: Zero-dependency Python snippets for joining strings using the standard library.
+keywords: conditional, delimiter, filter, formatting, function, group, join, lines, list, newline, separator, string, text
+---
+
 # Join Strings
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for joining strings using the standard library.
 
 6 snippets available in this sub-category.
 

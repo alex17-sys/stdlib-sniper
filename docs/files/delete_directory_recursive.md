@@ -1,6 +1,12 @@
+---
+title: Delete Directory Recursive
+description: Zero-dependency Python snippets for deleting directories and their contents recursively using the standard library.
+keywords: backup, confirmation, count, delete, directory, error-handling, recursive, rmtree, shutil, timestamp
+---
+
 # Delete Directory Recursive
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for deleting directories and their contents recursively using the standard library.
 
 4 snippets available in this sub-category.
 

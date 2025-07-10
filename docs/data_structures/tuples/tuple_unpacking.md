@@ -1,6 +1,12 @@
+---
+title: Tuple Unpacking
+description: Zero-dependency Python snippets for unpacking tuples using the standard library.
+keywords: arguments, assignment, data-structures, extended-unpacking, function, ignore, iteration, loop, nested, star, swap, tuple, unpacking
+---
+
 # Tuple Unpacking
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for unpacking tuples using the standard library.
 
 6 snippets available in this sub-category.
 

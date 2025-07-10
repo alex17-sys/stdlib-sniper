@@ -1,6 +1,12 @@
+---
+title: File Checksum
+description: Zero-dependency Python snippets for calculating file checksums using the standard library.
+keywords: checksum, chunks, comparison, file, hashlib, integrity, large-files, md5, memory-efficient, sha256, verify
+---
+
 # File Checksum
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for calculating file checksums using the standard library.
 
 4 snippets available in this sub-category.
 

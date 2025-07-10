@@ -1,6 +1,12 @@
+---
+title: Read Binary File
+description: Zero-dependency Python snippets for reading binary files using the standard library.
+keywords: binary, bytes, chunks, decode, encoding, error-handling, file, memory-efficient, open, parsing, read, struct, structured
+---
+
 # Read Binary File
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for reading binary files using the standard library.
 
 4 snippets available in this sub-category.
 

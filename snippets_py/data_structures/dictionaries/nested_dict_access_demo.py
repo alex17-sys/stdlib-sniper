@@ -104,14 +104,10 @@ print(d["a"]["b"]["c"])  # 42
 import time
 
 
-def deep_get(d, keys, default=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (deep_get)
 
 
-def deep_set(d, keys, value):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (deep_set)
 
 
 d = {}
@@ -124,9 +120,7 @@ print("Time:", time.time() - start)
 
 
 # 🧩 Edge cases: missing keys, non-dict values
-def deep_get(d, keys, default=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (deep_get)
 
 
 d = {"a": {"b": 1}}

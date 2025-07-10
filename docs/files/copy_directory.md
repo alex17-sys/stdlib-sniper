@@ -1,6 +1,12 @@
+---
+title: Copy Directory
+description: Zero-dependency Python snippets for copying directory trees using the standard library.
+keywords: copy, copytree, directory, error-handling, filter, ignore, overwrite, patterns, rmtree, shutil
+---
+
 # Copy Directory
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for copying directory trees using the standard library.
 
 4 snippets available in this sub-category.
 

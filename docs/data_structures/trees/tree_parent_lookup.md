@@ -1,6 +1,12 @@
+---
+title: Tree Parent Lookup
+description: Zero-dependency Python snippets for storing and looking up parent pointers in a tree using the standard library.
+keywords: ancestor, binary, data-structures, lookup, map, parent, tree
+---
+
 # Tree Parent Lookup
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for storing and looking up parent pointers in a tree using the standard library.
 
 4 snippets available in this sub-category.
 

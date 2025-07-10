@@ -1,6 +1,12 @@
+---
+title: Check if String is Palindrome
+description: Check if a string is a palindrome using the standard library.
+keywords: boundaries, case-insensitive, character, comparison, count, counter, custom, filter, function, length, minimum, normalization, optimized, palindrome, performance, positions, punctuation, regex, reverse, string, text, tracking, unicode, validation, words
+---
+
 # Check if String is Palindrome
 
-Zero-dependency Python snippets using only the standard library.
+Check if a string is a palindrome using the standard library.
 
 11 snippets available in this sub-category.
 

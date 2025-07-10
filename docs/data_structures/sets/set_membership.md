@@ -1,6 +1,12 @@
+---
+title: Set Membership
+description: Zero-dependency Python snippets for checking membership in sets using the standard library.
+keywords: contains, custom, data-structures, hash, in, membership, not-in, object, set
+---
+
 # Set Membership
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for checking membership in sets using the standard library.
 
 3 snippets available in this sub-category.
 

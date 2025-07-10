@@ -1,6 +1,12 @@
+---
+title: Logarithm Operations
+description: Zero-dependency Python snippets for logarithmic operations using the standard library.
+keywords: approximation, benchmarking, change-of-base, compound-interest, continued-fraction, decibels, earthquake, edge-case, entropy, equations, error-handling, exp, exponential, half-life, identities, inequalities, information-theory, interpolation, kl-divergence, ln, log10, log2, logarithm, magnitude, math, mutual-information, natural-log, normalization, optimization, performance, ph, precision, properties, scale, series, solving, taylor, transformation, validation
+---
+
 # Logarithm Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for logarithmic operations using the standard library.
 
 10 snippets available in this sub-category.
 

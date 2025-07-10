@@ -1,6 +1,12 @@
+---
+title: Named Tuple Usage
+description: Zero-dependency Python snippets for using collections.namedtuple in the standard library.
+keywords: access, asdict, create, data-structures, defaults, dict, immutable, index, namedtuple, nested, replace, structure, tuple, unpacking
+---
+
 # Named Tuple Usage
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for using collections.namedtuple in the standard library.
 
 6 snippets available in this sub-category.
 

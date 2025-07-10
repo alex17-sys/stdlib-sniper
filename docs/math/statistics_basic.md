@@ -1,6 +1,12 @@
+---
+title: Basic Statistics Operations
+description: Zero-dependency Python snippets for basic statistics using the standard library.
+keywords: average, basic, benchmarking, count, counts, edge-case, error-handling, frequency, geometric-mean, grades, harmonic-mean, math, max, mean, median, midrange, min, mode, performance, range, report, statistics, sum, summary, unique, validation, weighted-mean
+---
+
 # Basic Statistics Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for basic statistics using the standard library.
 
 9 snippets available in this sub-category.
 

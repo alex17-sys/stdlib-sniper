@@ -1,6 +1,12 @@
+---
+title: Advanced Statistics Operations
+description: Zero-dependency Python snippets for advanced statistics using the standard library.
+keywords: advanced, benchmarking, correlation, covariance, edge-case, error-handling, iqr, kurtosis, linear, math, minmax, moving-average, normalization, outliers, percentiles, performance, prediction, quantiles, regression, rolling, skewness, standardization, statistics, stddev, validation, variance, window, z-score
+---
+
 # Advanced Statistics Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for advanced statistics using the standard library.
 
 10 snippets available in this sub-category.
 

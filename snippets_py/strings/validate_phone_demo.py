@@ -93,9 +93,7 @@ def parse_phone_with_extension(phone):
 
 
 # 🧩 Validate Phone Number Extension
-def parse_phone_with_extension(phone):
-    # See above defined function
-    pass
+# See above defined function (parse_phone_with_extension)
 
 
 def validate_phone_extension(phone):
@@ -130,9 +128,7 @@ def normalize_phone_number(phone):
 
 
 # 🧩 Extract Phone Numbers from Text
-def normalize_phone_number(phone):
-    # See above defined function
-    pass
+# See above defined function (normalize_phone_number)
 
 
 def extract_phone_numbers(text):

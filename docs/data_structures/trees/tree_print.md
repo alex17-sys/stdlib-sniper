@@ -1,6 +1,12 @@
+---
+title: Pretty-Print Tree Structure
+description: Zero-dependency Python snippets for pretty-printing tree structures using the standard library.
+keywords: attribute, binary, data-structures, edge-case, indent, pretty, print, tree, value
+---
+
 # Pretty-Print Tree Structure
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for pretty-printing tree structures using the standard library.
 
 4 snippets available in this sub-category.
 

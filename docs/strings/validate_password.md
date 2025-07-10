@@ -1,6 +1,12 @@
+---
+title: Validate Password Strength
+description: Check password strength and enforce password policies using the standard library.
+keywords: age, basic, class, entropy, math, password, policy, randomness, regex, reuse, scoring, security, strength, validation
+---
+
 # Validate Password Strength
 
-Zero-dependency Python snippets using only the standard library.
+Check password strength and enforce password policies using the standard library.
 
 4 snippets available in this sub-category.
 

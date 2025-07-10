@@ -1,6 +1,12 @@
+---
+title: Wrap Text
+description: Zero-dependency Python snippets for wrapping text to specified width using the standard library.
+keywords: advanced, breaks, characters, custom, fill, indent, options, string, text, textwrap, width, wrap
+---
+
 # Wrap Text
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for wrapping text to specified width using the standard library.
 
 4 snippets available in this sub-category.
 

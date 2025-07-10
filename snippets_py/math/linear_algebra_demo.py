@@ -164,14 +164,9 @@ print(f"Inverse 2x2: {inverse_2x2(A)}")  # [[0.6, -0.7], [-0.2, 0.4]]
 
 
 # 🧩 Handle edge cases in linear algebra
-def inverse_2x2(M):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (inverse_2x2)
 
-
-def matrix_multiply(A, B):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (matrix_multiply)
 
 
 def robust_matrix_multiply(A, B):
@@ -201,9 +196,7 @@ print(safe_inverse_2x2([[1, 2], [2, 4]]))  # None (singular)
 import time
 
 
-def matrix_multiply(A, B):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (matrix_multiply)
 
 
 def benchmark_matrix_multiply():

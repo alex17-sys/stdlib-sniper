@@ -1,6 +1,12 @@
+---
+title: Change Directory
+description: Zero-dependency Python snippets for changing the working directory using the standard library.
+keywords: change, chdir, context-manager, directory, error-handling, os, permissions, temporary, validation
+---
+
 # Change Directory
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for changing the working directory using the standard library.
 
 4 snippets available in this sub-category.
 

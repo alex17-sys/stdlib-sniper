@@ -213,9 +213,7 @@ def benchmark_formatting():
 
 
 # 🧩 Financial reporting
-def format_currency(amount, currency="USD", places=2):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (format_currency)
 
 
 def format_financial_report(data):

@@ -1,6 +1,12 @@
+---
+title: Complex Number Operations
+description: Zero-dependency Python snippets for complex number arithmetic using the standard library.
+keywords: abs, addition, arithmetic, benchmarking, complex, conjugate, cos, cosh, create, division, edge-case, engineering, error-handling, exp, float, imaginary, impedance, log, math, multiplication, performance, phase, phasor, polar, power, real, rect, roots, signal-processing, sin, sinh, sqrt, subtraction, tan, tanh, validation
+---
+
 # Complex Number Operations
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for complex number arithmetic using the standard library.
 
 9 snippets available in this sub-category.
 

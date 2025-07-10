@@ -45,9 +45,7 @@ print(limit(f, 1))  # ~2.00001
 
 
 # 🧩 Higher-order derivatives
-def derivative(f, x, h=1e-5):
-    # See above defined function
-    pass
+# See above defined function (derivative)
 
 
 def nth_derivative(f, x, n, h=1e-5):
@@ -107,9 +105,7 @@ print(partial_derivative(f, 1, 2))  # (~2.0, ~5.0)
 
 
 # 🧩 Handle invalid functions and domains
-def derivative(f, x, h=1e-5):
-    # See above defined function
-    pass
+# See above defined function (derivative)
 
 
 def safe_derivative(f, x, h=1e-5):
@@ -133,9 +129,7 @@ print(safe_derivative(f, 0))  # Error, returns None
 import time
 
 
-def derivative(f, x, h=1e-5):
-    # See above defined function
-    pass
+# See above defined function (derivative)
 
 
 def benchmark_derivative():
@@ -155,14 +149,9 @@ def benchmark_derivative():
 
 
 # 🧩 Physics and optimization
-def derivative(f, x, h=1e-5):
-    # See above defined function
-    pass
+# See above defined function (derivative)
 
-
-def integral(f, a, b, n=1000):
-    # See above defined function
-    pass
+# See above defined function (integral)
 
 
 def velocity(position, t, h=1e-5):

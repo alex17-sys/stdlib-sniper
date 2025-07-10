@@ -64,16 +64,18 @@ if not run_step("Checking format in snippets_py", ["ruff", "format", "--check", 
     )
     sys.exit(1)
 
-# 4. Check for broken links
+# 4. Generate docs
+if not run_step(
+    "Generating documentation", [sys.executable, os.path.join(SCRIPT_DIR, "generate_docs.py")]
+):
+    sys.exit(1)
+
+
+# 5. Check for broken links
 if not run_step(
     "Checking for broken links", [sys.executable, os.path.join(SCRIPT_DIR, "check_broken_links.py")]
 ):
     sys.exit(1)
 
-# 5. Generate docs
-if not run_step(
-    "Generating documentation", [sys.executable, os.path.join(SCRIPT_DIR, "generate_docs.py")]
-):
-    sys.exit(1)
 
 print("\nAll checks passed!")

@@ -1,6 +1,12 @@
+---
+title: Graph Shortest Path
+description: Zero-dependency Python snippets for finding shortest paths in graphs using the standard library.
+keywords: bfs, data-structures, dijkstra, edge-case, graph, heapq, shortest-path, unweighted, weighted
+---
+
 # Graph Shortest Path
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for finding shortest paths in graphs using the standard library.
 
 3 snippets available in this sub-category.
 

@@ -61,9 +61,7 @@ print(find_path_iterative(tree, "D"))  # ['A', 'C', 'D']
 
 
 # 🧩 Edge cases: not found, root only
-def find_path(tree, target, path=None):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (find_path)
 
 
 tree = {"A": {"B": {}, "C": {"D": {}, "E": {}}}}

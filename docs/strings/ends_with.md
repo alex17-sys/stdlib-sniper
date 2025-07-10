@@ -1,6 +1,12 @@
+---
+title: Check String Ends With
+description: Check if a string ends with a specific suffix using the standard library.
+keywords: boundaries, case-insensitive, check, condition, conditions, custom, endswith, extension, file, filename, function, multiple, offset, pattern, position, regex, search, slice, string, suffix, suffixes, text, tuple, validation, word
+---
+
 # Check String Ends With
 
-Zero-dependency Python snippets using only the standard library.
+Check if a string ends with a specific suffix using the standard library.
 
 9 snippets available in this sub-category.
 

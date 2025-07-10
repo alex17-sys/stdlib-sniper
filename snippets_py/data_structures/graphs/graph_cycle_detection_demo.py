@@ -58,14 +58,10 @@ print(has_cycle_directed(digraph2))  # False
 
 
 # 🧩 Edge cases: empty graph, isolated nodes
-def has_cycle_undirected(graph):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (has_cycle_undirected)
 
 
-def has_cycle_directed(graph):
-    # Function is defined in one of the above code block
-    pass
+# Function is defined in one of the above code block (has_cycle_directed)
 
 
 print(has_cycle_undirected({}))  # False

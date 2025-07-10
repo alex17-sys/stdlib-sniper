@@ -1,6 +1,12 @@
+---
+title: Graph Topological Sort
+description: Zero-dependency Python snippets for topological sorting of a directed acyclic graph (DAG) using the standard library.
+keywords: bfs, dag, data-structures, dfs, directed, edge-case, graph, kahn, topological-sort
+---
+
 # Graph Topological Sort
 
-Zero-dependency Python snippets using only the standard library.
+Zero-dependency Python snippets for topological sorting of a directed acyclic graph (DAG) using the standard library.
 
 3 snippets available in this sub-category.
 
